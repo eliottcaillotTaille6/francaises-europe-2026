@@ -52,8 +52,9 @@ Le bouton YouTube du site mène au match complet, sinon au résumé, sinon à la
 
 ## Pages
 
-- **Derniers matchs** : les 7 derniers jours (une journée de coupe d'Europe s'étale du mardi au jeudi), cartes triées
-  par points, et la liste des joueuses qui n'ont pas joué. Boutons semaine précédente / suivante.
+- **Accueil** : la semaine civile en cours (lundi → dimanche, heure de Paris ; une journée de coupe d'Europe s'étale
+  du mardi au jeudi). Cartes des joueuses encadrées d'abord, puis les autres, chaque groupe par points ; liste des
+  joueuses qui n'ont pas joué. Boutons semaine précédente / suivante.
 - **Fiche joueuse** : club, compétition, lien vers sa page sur fiba.basketball (une par compétition ; adresse
   construite à partir de son numéro FIBA et du club, vérifiée une fois), poste, taille, âge, moyennes (séparées par compétition si elle joue les
   deux), graphique des points, game log.

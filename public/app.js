@@ -13,7 +13,7 @@ const pct = (m, a) => (a ? `${((100 * m) / a).toLocaleString('fr-FR', { maximumF
 const noon = (ymd) => new Date(`${ymd}T12:00:00Z`);
 
 const dateFR = (ymd, opts = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' }) =>
-  noon(ymd).toLocaleDateString('fr-FR', { ...opts, timeZone: 'UTC' });
+  noon(ymd).toLocaleDateString('fr-FR', { ...opts, timeZone: 'UTC' }).replace(/(^|\s)1 /, '$11er '); // « 1er novembre »
 const dateShortFR = (ymd) => noon(ymd).toLocaleDateString('fr-FR', { day: 'numeric', month: 'short', timeZone: 'UTC' });
 const timeParis = (utc) =>
   new Date(utc).toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Paris' }).replace(':', ' h ');
@@ -177,31 +177,35 @@ function cardHTML(g, l) {
 // ---------- pages ----------
 const playedDays = () => [...new Set(state.games.filter((g) => Object.values(g.lines ?? {}).some((l) => l.status === 'played')).map((g) => g.date))].sort();
 
-// Accueil : une semaine de matchs (une journée de coupe d'Europe s'étale du mardi au jeudi).
+// Accueil : la semaine civile en cours (lundi → dimanche, heure de Paris). Les matchs de la semaine
+// précédente n'y sont pas : boutons « Semaine précédente / suivante » pour naviguer.
 const addDays = (ymd, n) => new Date(noon(ymd).getTime() + n * 86400000).toISOString().slice(0, 10);
+const todayParis = () => new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Paris' });
+const mondayOf = (ymd) => addDays(ymd, -((noon(ymd).getUTCDay() + 6) % 7));
 
-function pageHome(end) {
+function pageHome(weekStart) {
+  const current = mondayOf(todayParis());
+  const start = weekStart ? mondayOf(weekStart) : current;
+  const end = addDays(start, 6);
   const days = playedDays();
-  const last = end ?? days.at(-1);
-  if (!last) return `<h1>Derniers matchs</h1><p class="empty">Aucun match pour l'instant.</p>`;
-  const start = addDays(last, -6);
-  const games = state.games.filter((g) => g.date >= start && g.date <= last);
+  const games = state.games.filter((g) => g.date >= start && g.date <= end);
   const lines = games.flatMap((g) => Object.values(g.lines ?? {}).map((l) => ({ g, l })));
   // lignes encadrées d'abord, puis les autres ; dans chaque groupe, par points
   const played = lines.filter((x) => x.l.status === 'played' && x.l.stats).sort((a, b) =>
     isBig(b.l.stats, b.l.player_id).big - isBig(a.l.stats, a.l.player_id).big || b.l.stats.pts - a.l.stats.pts || b.l.stats.reb - a.l.stats.reb);
   const others = lines.filter((x) => x.l.status !== 'played');
   const prev = days.filter((d) => d < start).at(-1);
-  const next = days.find((d) => d > last);
-  const range = (a, b) => `du ${dateFR(a, { day: 'numeric', month: 'long' })} au ${dateFR(b, { day: 'numeric', month: 'long', year: 'numeric' })}`;
-  return `<h1>${end ? 'Matchs de la semaine' : 'Derniers matchs'}</h1>
-    <p class="page-sub">${esc(range(start, last))} · ${played.length} ligne${played.length > 1 ? 's' : ''} de stats, ${games.length} match${games.length > 1 ? 's' : ''}</p>
+  const next = days.find((d) => d > end);
+  const range = `du lundi ${dateFR(start, { day: 'numeric', month: 'long' })} au dimanche ${dateFR(end, { day: 'numeric', month: 'long', year: 'numeric' })}`;
+  const title = start === current ? 'Cette semaine' : `Semaine du ${dateFR(start, { day: 'numeric', month: 'long' })}`;
+  return `<h1>${esc(title)}</h1>
+    <p class="page-sub">${esc(range)} · ${played.length} ligne${played.length > 1 ? 's' : ''} de stats, ${games.length} match${games.length > 1 ? 's' : ''}</p>
     <div class="day-nav">
-      ${prev ? `<a class="btn ghost" href="#/semaine/${prev}">← Semaine précédente</a>` : ''}
-      ${next ? `<a class="btn ghost" href="#/semaine/${addDays(next, 6) > days.at(-1) ? days.at(-1) : addDays(next, 6)}">Semaine suivante →</a>` : ''}
-      <a class="btn ghost" href="#/calendrier/${last}">Calendrier</a>
+      ${prev ? `<a class="btn ghost" href="#/semaine/${mondayOf(prev)}">← Semaine précédente</a>` : ''}
+      ${next ? `<a class="btn ghost" href="#/semaine/${mondayOf(next)}">Semaine suivante →</a>` : start < current ? '<a class="btn ghost" href="#/">Cette semaine →</a>' : ''}
+      <a class="btn ghost" href="#/calendrier/${games.at(-1)?.date ?? (prev ?? start)}">Calendrier</a>
     </div>
-    <div class="cards">${played.map(({ g, l }) => cardHTML(g, l)).join('') || '<p class="empty">Aucune Française n\'a joué cette semaine.</p>'}</div>
+    <div class="cards">${played.map(({ g, l }) => cardHTML(g, l)).join('') || `<p class="empty">${start === current ? 'Pas encore de match de Française cette semaine.' : 'Aucune Française n\'a joué cette semaine-là.'}</p>`}</div>
     ${others.length ? `<div class="absents"><h2>N'ont pas joué</h2><ul>${others.map(({ g, l }) => `<li><a href="#/joueuse/${esc(l.player_id)}">${esc(state.byId.get(l.player_id)?.name ?? l.player_id)}</a> (${esc(l.team)}, ${esc(dateShortFR(g.date))} ${perspective(g, l).where} ${esc(teamName(perspective(g, l).them))}) : ${statusText(l)}</li>`).join('')}</ul></div>` : ''}`;
 }
 
