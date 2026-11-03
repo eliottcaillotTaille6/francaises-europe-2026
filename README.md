@@ -60,7 +60,7 @@ Le bouton YouTube du site mène au match complet, sinon au résumé, sinon à la
   du club, poste.
 - **Calendrier** : jour par jour, avec un sélecteur de date.
 
-Lignes encadrées en vert : au moins le seuil de points de la joueuse (`config/site.json` → `highlight` : `points`
+Lignes encadrées en vert : au moins le seuil de points de la joueuse (`config/site.json` → `highlight` : `points`, 20
 pour toutes, `players` pour un seuil par joueuse, par `id`), ou double-double / triple-double.
 
 ## Commandes
