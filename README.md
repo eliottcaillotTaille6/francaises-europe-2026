@@ -77,8 +77,10 @@ npm run dev       # site local sur http://localhost:4321 (variable PORT pour cha
 
 Dans **`data/players.json`** :
 
-- **Retirer du site** : `"active": false` (ses matchs restent dans `games.json`). Pour l'écarter définitivement,
-  ajouter aussi son `id` dans `config/site.json` → `excluded_players`.
+- **Retirer du site** : `"active": false` (ses matchs restent dans `games.json`).
+- **Écarter définitivement** : ajouter son `id` dans `config/site.json` → `excluded_players` et son numéro FIBA dans
+  `excluded_fiba_ids`. À la mise à jour suivante, elle est retirée de `players.json` et de tous les matchs, et elle
+  n'est plus jamais rajoutée automatiquement. Elle Ladine est dans ce cas.
 - **Ajouter une joueuse qui n'est pas de nationalité FIBA « FRA »** (double nationalité enregistrée sous un autre
   pays) : copier un bloc existant, mettre son `fiba_person_id` (nombre dans l'adresse de sa fiche sur
   fiba.basketball, ex. `…/teams/basket-landes/253743-emma-peytour` → `253743`) et son club, puis lancer

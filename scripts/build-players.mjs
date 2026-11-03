@@ -8,6 +8,9 @@ import fs from 'node:fs';
 import { competitionGames, gamePage, valueAfter } from './lib/fiba.mjs';
 
 const comps = JSON.parse(fs.readFileSync('config/competitions.json', 'utf8')).competitions;
+const siteConfig = JSON.parse(fs.readFileSync('config/site.json', 'utf8'));
+const excludedIds = new Set(siteConfig.excluded_players ?? []);
+const excludedFiba = new Set((siteConfig.excluded_fiba_ids ?? []).map(String));
 const old = fs.existsSync('data/players.json') ? JSON.parse(fs.readFileSync('data/players.json', 'utf8')) : [];
 const oldById = new Map(old.map((p) => [p.fiba_person_id, p]));
 
@@ -43,7 +46,8 @@ for (const c of comps) {
     const isPlayed = g.gameResultStatusCode === 'VALID';
     for (const roster of [page.rosterA, page.rosterB]) {
       for (const r of roster?.players ?? []) {
-        if (r.nationality !== 'FRA') continue;
+        if (r.nationality !== 'FRA' || excludedFiba.has(String(r.personId))
+            || excludedIds.has(slugify(`${r.firstName} ${r.lastName}`))) continue;
         const p = players.get(r.personId) ?? {
           fiba_person_id: r.personId,
           name: `${title(r.firstName)} ${title(r.lastName)}`.trim(),

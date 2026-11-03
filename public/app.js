@@ -187,7 +187,9 @@ function pageHome(end) {
   const start = addDays(last, -6);
   const games = state.games.filter((g) => g.date >= start && g.date <= last);
   const lines = games.flatMap((g) => Object.values(g.lines ?? {}).map((l) => ({ g, l })));
-  const played = lines.filter((x) => x.l.status === 'played' && x.l.stats).sort((a, b) => b.l.stats.pts - a.l.stats.pts || b.l.stats.reb - a.l.stats.reb);
+  // lignes encadrées d'abord, puis les autres ; dans chaque groupe, par points
+  const played = lines.filter((x) => x.l.status === 'played' && x.l.stats).sort((a, b) =>
+    isBig(b.l.stats, b.l.player_id).big - isBig(a.l.stats, a.l.player_id).big || b.l.stats.pts - a.l.stats.pts || b.l.stats.reb - a.l.stats.reb);
   const others = lines.filter((x) => x.l.status !== 'played');
   const prev = days.filter((d) => d < start).at(-1);
   const next = days.find((d) => d > last);

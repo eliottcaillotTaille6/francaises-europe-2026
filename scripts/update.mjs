@@ -13,11 +13,21 @@ import { findVideos, similarity } from './lib/youtube.mjs';
 import { fetchText } from './lib/http.mjs';
 
 const comps = JSON.parse(fs.readFileSync('config/competitions.json', 'utf8')).competitions;
-const players = JSON.parse(fs.readFileSync('data/players.json', 'utf8'));
+// Joueuses écartées définitivement (config/site.json → excluded_players par id, excluded_fiba_ids par n° FIBA) :
+// retirées de la liste et de tous les matchs, et jamais rajoutées automatiquement.
+const siteConfig = JSON.parse(fs.readFileSync('config/site.json', 'utf8'));
+const excludedIds = new Set(siteConfig.excluded_players ?? []);
+const excludedFiba = new Set((siteConfig.excluded_fiba_ids ?? []).map(String));
+const isExcluded = (id, personId) => excludedIds.has(id) || excludedFiba.has(String(personId));
+const players = JSON.parse(fs.readFileSync('data/players.json', 'utf8')).filter((p) => !isExcluded(p.id, p.fiba_person_id));
 const byPerson = new Map(players.map((p) => [String(p.fiba_person_id), p]));
 const GAMES = 'data/games.json';
 const prev = fs.existsSync(GAMES) ? JSON.parse(fs.readFileSync(GAMES, 'utf8')).games : [];
 const games = new Map(prev.map((g) => [g.id, g]));
+for (const [id, g] of games) {
+  for (const pid of Object.keys(g.lines ?? {})) if (excludedIds.has(pid)) delete g.lines[pid];
+  if (!Object.keys(g.lines ?? {}).length) games.delete(id);   // plus aucune Française dans ce match
+}
 
 const slugify = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const title = (s) => (s ?? '').toLowerCase().replace(/(^|[\s'-])\p{L}/gu, (c) => c.toUpperCase());
@@ -51,6 +61,7 @@ for (const c of comps) {
     for (const r of rosters)
       for (const p of r.roster?.players ?? []) {
         if (p.nationality !== 'FRA' || byPerson.has(String(p.personId))) continue;
+        if (isExcluded(slugify(`${p.firstName} ${p.lastName}`), p.personId)) continue;
         const np = {
           id: slugify(`${p.firstName} ${p.lastName}`), fiba_person_id: p.personId,
           name: `${title(p.firstName)} ${title(p.lastName)}`.trim(), dob: p.dateOfBirth?.slice(0, 10) ?? '',

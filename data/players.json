@@ -58,7 +58,7 @@
   "clubs": [
    "Athinaikos Qualco"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Center",
   "height_cm": 198,
   "number": "15",
@@ -82,10 +82,10 @@
   "clubs": [
    "Basket Landes"
   ],
-  "games_on_sheet": 1,
+  "games_on_sheet": 2,
   "position": "Power Forward",
   "height_cm": 191,
-  "number": "",
+  "number": "14",
   "club": "Basket Landes",
   "club_country": "FRA",
   "club_org": 8916,
@@ -106,7 +106,7 @@
   "clubs": [
    "Basket Landes"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Shooting Guard",
   "height_cm": 178,
   "number": "7",
@@ -130,10 +130,10 @@
   "clubs": [
    "Basket Landes"
   ],
-  "games_on_sheet": 1,
+  "games_on_sheet": 2,
   "position": "Point Guard",
   "height_cm": 169,
-  "number": "",
+  "number": "4",
   "club": "Basket Landes",
   "club_country": "FRA",
   "club_org": 8916,
@@ -154,7 +154,7 @@
   "clubs": [
    "Basket Landes"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Shooting Guard",
   "height_cm": 172,
   "number": "10",
@@ -178,7 +178,7 @@
   "clubs": [
    "Basket Landes"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Small Forward",
   "height_cm": 178,
   "number": "9",
@@ -202,7 +202,7 @@
   "clubs": [
    "Basket Landes"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Point Guard",
   "height_cm": 178,
   "number": "5",
@@ -226,7 +226,7 @@
   "clubs": [
    "Basket Landes"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Center",
   "height_cm": 190,
   "number": "13",
@@ -250,7 +250,7 @@
   "clubs": [
    "Basket Landes"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Small Forward",
   "height_cm": 184,
   "number": "6",
@@ -874,7 +874,7 @@
   "clubs": [
    "Casademont Zaragoza"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Shooting Guard",
   "height_cm": 181,
   "number": "3",
@@ -1066,7 +1066,7 @@
   "clubs": [
    "CIMSA CBK Mersin"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Point Guard",
   "height_cm": 175,
   "number": "0",
@@ -1090,7 +1090,7 @@
   "clubs": [
    "CIMSA CBK Mersin"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Center",
   "height_cm": 193,
   "number": "29",
@@ -1140,7 +1140,7 @@
   "clubs": [
    "Fenerbahce Tarfin"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Guard",
   "height_cm": 182,
   "number": "71",
@@ -1164,7 +1164,7 @@
   "clubs": [
    "Fenerbahce Tarfin"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Shooting Guard",
   "height_cm": 185,
   "number": "33",
@@ -1188,7 +1188,7 @@
   "clubs": [
    "Fenerbahce Tarfin"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Shooting Guard",
   "height_cm": 175,
   "number": "32",
@@ -1212,7 +1212,7 @@
   "clubs": [
    "Flammes Carolo Basket"
   ],
-  "games_on_sheet": 5,
+  "games_on_sheet": 6,
   "position": "Point Guard",
   "height_cm": 166,
   "number": "2",
@@ -1236,7 +1236,7 @@
   "clubs": [
    "Flammes Carolo Basket"
   ],
-  "games_on_sheet": 5,
+  "games_on_sheet": 6,
   "position": "Guard",
   "height_cm": 180,
   "number": "8",
@@ -1260,7 +1260,7 @@
   "clubs": [
    "Flammes Carolo Basket"
   ],
-  "games_on_sheet": 5,
+  "games_on_sheet": 6,
   "position": "Center",
   "height_cm": 195,
   "number": "33",
@@ -1284,7 +1284,7 @@
   "clubs": [
    "Flammes Carolo Basket"
   ],
-  "games_on_sheet": 4,
+  "games_on_sheet": 5,
   "position": "Power Forward",
   "height_cm": 178,
   "number": "1",
@@ -1308,7 +1308,7 @@
   "clubs": [
    "Flammes Carolo Basket"
   ],
-  "games_on_sheet": 5,
+  "games_on_sheet": 6,
   "position": "Center",
   "height_cm": 197,
   "number": "6",
@@ -1356,7 +1356,7 @@
   "clubs": [
    "Flammes Carolo Basket"
   ],
-  "games_on_sheet": 5,
+  "games_on_sheet": 6,
   "position": "Shooting Guard",
   "height_cm": 178,
   "number": "10",
@@ -1428,7 +1428,7 @@
   "clubs": [
    "Kibirkstis-TOKS"
   ],
-  "games_on_sheet": 5,
+  "games_on_sheet": 6,
   "position": "Shooting Guard",
   "height_cm": 178,
   "number": "3",
@@ -1668,7 +1668,7 @@
   "clubs": [
    "Olympiacos SFP"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Small Forward",
   "height_cm": 184,
   "number": "8",
@@ -1679,30 +1679,6 @@
   "note": "",
   "fiba_pages": {
    "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/olympiacos-sfp/226148-yohana-ewodo"
-  }
- },
- {
-  "id": "elle-ladine",
-  "fiba_person_id": 423035,
-  "name": "Elle Ladine",
-  "dob": "2004-12-28",
-  "competitions": [
-   "ECW"
-  ],
-  "clubs": [
-   "PRO-NETWORK ENEA AJP Gorzow"
-  ],
-  "games_on_sheet": 3,
-  "position": "Shooting Guard",
-  "height_cm": 181,
-  "number": "30",
-  "club": "PRO-NETWORK ENEA AJP Gorzow",
-  "club_country": "POL",
-  "club_org": 8365,
-  "active": true,
-  "note": "",
-  "fiba_pages": {
-   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/pro-network-enea-ajp-gorzow/423035-elle-ladine"
   }
  },
  {
@@ -1837,7 +1813,7 @@
   "clubs": [
    "Tango Bourges Basket"
   ],
-  "games_on_sheet": 2,
+  "games_on_sheet": 3,
   "position": "Point Guard",
   "height_cm": 168,
   "number": "39",
@@ -1861,10 +1837,10 @@
   "clubs": [
    "Tango Bourges Basket"
   ],
-  "games_on_sheet": 2,
+  "games_on_sheet": 3,
   "position": "Forward",
   "height_cm": 187,
-  "number": "",
+  "number": "68",
   "club": "Tango Bourges Basket",
   "club_country": "FRA",
   "club_org": 928,
@@ -1885,7 +1861,7 @@
   "clubs": [
    "Tango Bourges Basket"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Center",
   "height_cm": 184,
   "number": "36",
@@ -1909,7 +1885,7 @@
   "clubs": [
    "Tango Bourges Basket"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Power Forward",
   "height_cm": 184,
   "number": "25",
@@ -1933,7 +1909,7 @@
   "clubs": [
    "Tango Bourges Basket"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Shooting Guard",
   "height_cm": 181,
   "number": "26",
@@ -1957,7 +1933,7 @@
   "clubs": [
    "Tango Bourges Basket"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Center",
   "height_cm": 187,
   "number": "3",
@@ -1981,7 +1957,7 @@
   "clubs": [
    "Tango Bourges Basket"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Shooting Guard",
   "height_cm": 179,
   "number": "1",
@@ -2005,7 +1981,7 @@
   "clubs": [
    "Tango Bourges Basket"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Small Forward",
   "height_cm": 189,
   "number": "2",
@@ -2029,10 +2005,10 @@
   "clubs": [
    "Tango Bourges Basket"
   ],
-  "games_on_sheet": 2,
+  "games_on_sheet": 3,
   "position": "Guard",
   "height_cm": 165,
-  "number": "",
+  "number": "19",
   "club": "Tango Bourges Basket",
   "club_country": "FRA",
   "club_org": 928,
@@ -2295,7 +2271,7 @@
   "clubs": [
    "ZVVZ USK Praha"
   ],
-  "games_on_sheet": 3,
+  "games_on_sheet": 4,
   "position": "Shooting Guard",
   "height_cm": 183,
   "number": "28",
@@ -2319,7 +2295,7 @@
   "clubs": [
    "ZVVZ USK Praha"
   ],
-  "games_on_sheet": 2,
+  "games_on_sheet": 3,
   "position": "Guard",
   "height_cm": 179,
   "number": "18",

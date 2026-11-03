@@ -1,6 +1,6 @@
 # Françaises en EuroLeague Women et EuroCup Women (2026-11-03)
 
-97 joueuses de nationalité FIBA « FRA », dans 31 clubs. Source : effectifs des pages de match de fiba.basketball.
+96 joueuses de nationalité FIBA « FRA », dans 30 clubs. Source : effectifs des pages de match de fiba.basketball.
 
 « Feuilles » = nombre de matchs joués par son équipe où elle était inscrite sur la feuille de match.
 
@@ -38,15 +38,15 @@
 
 | Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
 |---|---|---|---|---|---|---|
-| Alix Duchet | 39 | Point Guard | 168 cm | 28 | 2 |  |
-| Anna Mane |  | Forward | 187 cm | 18 | 2 |  |
-| Clarince Djaldi-Tabdi | 36 | Center | 184 cm | 30 | 3 |  |
-| Elodie Naigre | 25 | Power Forward | 184 cm | 31 | 3 |  |
-| Ines Pitarch-Granel | 26 | Shooting Guard | 181 cm | 20 | 3 |  |
-| Maeva Djaldi-Tabdi | 3 | Center | 187 cm | 27 | 3 |  |
-| Maewenn Poilve | 1 | Shooting Guard | 179 cm | 18 | 3 |  |
-| Marie-Paule Foppossi | 2 | Small Forward | 189 cm | 28 | 3 |  |
-| Rokia Bamba |  | Guard | 165 cm | 18 | 2 |  |
+| Alix Duchet | 39 | Point Guard | 168 cm | 28 | 3 |  |
+| Anna Mane | 68 | Forward | 187 cm | 18 | 3 |  |
+| Clarince Djaldi-Tabdi | 36 | Center | 184 cm | 30 | 4 |  |
+| Elodie Naigre | 25 | Power Forward | 184 cm | 31 | 4 |  |
+| Ines Pitarch-Granel | 26 | Shooting Guard | 181 cm | 20 | 4 |  |
+| Maeva Djaldi-Tabdi | 3 | Center | 187 cm | 27 | 4 |  |
+| Maewenn Poilve | 1 | Shooting Guard | 179 cm | 18 | 4 |  |
+| Marie-Paule Foppossi | 2 | Small Forward | 189 cm | 28 | 4 |  |
+| Rokia Bamba | 19 | Guard | 165 cm | 18 | 3 |  |
 
 ## Villeneuve d'Ascq LM (FRA, ECW) — 9
 
@@ -66,14 +66,14 @@
 
 | Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
 |---|---|---|---|---|---|---|
-| Aminata Diagne |  | Power Forward | 191 cm | 19 | 1 |  |
-| Camille Droguet | 7 | Shooting Guard | 178 cm | 27 | 3 |  |
-| Emma Dechanoz |  | Point Guard | 169 cm | 19 | 1 |  |
-| Emma Peytour | 10 | Shooting Guard | 172 cm | 26 | 3 |  |
-| Mariama Daramy | 9 | Small Forward | 178 cm | 24 | 3 |  |
-| Marie Pardon | 5 | Point Guard | 178 cm | 25 | 3 |  |
-| Sixtine Macquet | 13 | Center | 190 cm | 25 | 3 |  |
-| Sophia Elenga | 6 | Small Forward | 184 cm | 31 | 3 |  |
+| Aminata Diagne | 14 | Power Forward | 191 cm | 19 | 2 |  |
+| Camille Droguet | 7 | Shooting Guard | 178 cm | 27 | 4 |  |
+| Emma Dechanoz | 4 | Point Guard | 169 cm | 19 | 2 |  |
+| Emma Peytour | 10 | Shooting Guard | 172 cm | 26 | 4 |  |
+| Mariama Daramy | 9 | Small Forward | 178 cm | 24 | 4 |  |
+| Marie Pardon | 5 | Point Guard | 178 cm | 25 | 4 |  |
+| Sixtine Macquet | 13 | Center | 190 cm | 25 | 4 |  |
+| Sophia Elenga | 6 | Small Forward | 184 cm | 31 | 4 |  |
 
 ## Landerneau Bretagne Basket (FRA, ECW) — 8
 
@@ -104,21 +104,21 @@
 
 | Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
 |---|---|---|---|---|---|---|
-| Coline Franchelin | 2 | Point Guard | 166 cm | 27 | 5 |  |
-| Isabelle Strunc | 8 | Guard | 180 cm | 35 | 5 |  |
-| Maia Hirsch | 33 | Center | 195 cm | 22 | 5 |  |
-| Noemie Brochant | 1 | Power Forward | 178 cm | 27 | 4 |  |
-| Tenin Magassa | 6 | Center | 197 cm | 25 | 5 |  |
+| Coline Franchelin | 2 | Point Guard | 166 cm | 27 | 6 |  |
+| Isabelle Strunc | 8 | Guard | 180 cm | 35 | 6 |  |
+| Maia Hirsch | 33 | Center | 195 cm | 22 | 6 |  |
+| Noemie Brochant | 1 | Power Forward | 178 cm | 27 | 5 |  |
+| Tenin Magassa | 6 | Center | 197 cm | 25 | 6 |  |
 | Vaciana Gomis |  | Shooting Guard | 171 cm | 23 | 2 |  |
-| Wallen Rhennam-Vainqueur | 10 | Shooting Guard | 178 cm | 18 | 5 |  |
+| Wallen Rhennam-Vainqueur | 10 | Shooting Guard | 178 cm | 18 | 6 |  |
 
 ## Fenerbahce Tarfin (TUR, ELW) — 3
 
 | Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
 |---|---|---|---|---|---|---|
-| Leila Lacan | 71 | Guard | 182 cm | 22 | 3 |  |
-| Nell Angloma | 33 | Shooting Guard | 185 cm | 20 | 3 |  |
-| Tima Pouye | 32 | Shooting Guard | 175 cm | 27 | 3 |  |
+| Leila Lacan | 71 | Guard | 182 cm | 22 | 4 |  |
+| Nell Angloma | 33 | Shooting Guard | 185 cm | 20 | 4 |  |
+| Tima Pouye | 32 | Shooting Guard | 175 cm | 27 | 4 |  |
 
 ## Ravens de Geneve (SUI, ECW) — 3
 
@@ -132,15 +132,15 @@
 
 | Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
 |---|---|---|---|---|---|---|
-| Carla Leite | 0 | Point Guard | 175 cm | 22 | 3 |  |
-| Kariata Diaby | 29 | Center | 193 cm | 31 | 3 |  |
+| Carla Leite | 0 | Point Guard | 175 cm | 22 | 4 |  |
+| Kariata Diaby | 29 | Center | 193 cm | 31 | 4 |  |
 
 ## ZVVZ USK Praha (CZE, ELW) — 2
 
 | Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
 |---|---|---|---|---|---|---|
-| Migna Toure | 28 | Shooting Guard | 183 cm | 31 | 3 |  |
-| Pauline Astier | 18 | Guard | 179 cm | 24 | 2 |  |
+| Migna Toure | 28 | Shooting Guard | 183 cm | 31 | 4 |  |
+| Pauline Astier | 18 | Guard | 179 cm | 24 | 3 |  |
 
 ## AEL Limassol WBC (CYP, ECW) — 1
 
@@ -158,7 +158,7 @@
 
 | Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
 |---|---|---|---|---|---|---|
-| Ana Tadic | 15 | Center | 198 cm | 28 | 3 |  |
+| Ana Tadic | 15 | Center | 198 cm | 28 | 4 |  |
 
 ## Basket Namur Capitale (BEL, ECW) — 1
 
@@ -194,7 +194,7 @@
 
 | Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
 |---|---|---|---|---|---|---|
-| Ornella Bankole | 3 | Shooting Guard | 181 cm | 29 | 3 |  |
+| Ornella Bankole | 3 | Shooting Guard | 181 cm | 29 | 4 |  |
 
 ## DVTK HUNTHERM (HUN, ELW + ECW) — 1
 
@@ -218,7 +218,7 @@
 
 | Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
 |---|---|---|---|---|---|---|
-| Zoe Wadoux | 3 | Shooting Guard | 178 cm | 25 | 5 |  |
+| Zoe Wadoux | 3 | Shooting Guard | 178 cm | 25 | 6 |  |
 
 ## MEINS Avenida (ESP, ECW) — 1
 
@@ -230,13 +230,7 @@
 
 | Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
 |---|---|---|---|---|---|---|
-| Yohana Ewodo | 8 | Small Forward | 184 cm | 25 | 3 |  |
-
-## PRO-NETWORK ENEA AJP Gorzow (POL, ECW) — 1
-
-| Joueuse | N° | Poste | Taille | Âge | Feuilles | Autre club cette saison |
-|---|---|---|---|---|---|---|
-| Elle Ladine | 30 | Shooting Guard | 181 cm | 21 | 3 |  |
+| Yohana Ewodo | 8 | Small Forward | 184 cm | 25 | 4 |  |
 
 ## SBS Ostrava (CZE, ECW) — 1
 

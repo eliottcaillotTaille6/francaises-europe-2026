@@ -10,9 +10,14 @@
     "points": 20,
     "players": {}
   },
-  "excluded_players": [],
+  "excluded_players": [
+    "elle-ladine"
+  ],
   "clipping": {
     "label": "Clipper",
     "url": "http://127.0.0.1:8765/"
-  }
+  },
+  "excluded_fiba_ids": [
+    423035
+  ]
 }
