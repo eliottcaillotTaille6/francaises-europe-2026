@@ -1,0 +1,23 @@
+{
+  "_doc": "Compétitions suivies. slug = partie de l'adresse fiba.basketball/en/events/<slug>. youtube_channels = chaînes où chercher les vidéos officielles, dans l'ordre.",
+  "season": "2026-27",
+  "competitions": [
+    {
+      "code": "ELW",
+      "name": "EuroLeague Women",
+      "slug": "euroleague-women-26-27",
+      "youtube_channels": [
+        "@euroleaguewomen"
+      ]
+    },
+    {
+      "code": "ECW",
+      "name": "EuroCup Women",
+      "slug": "eurocup-women-26-27",
+      "youtube_channels": [
+        "@FIBA",
+        "@euroleaguewomen"
+      ]
+    }
+  ]
+}

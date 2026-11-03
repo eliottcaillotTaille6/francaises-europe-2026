@@ -1,0 +1,2041 @@
+[
+ {
+  "id": "sarah-ousfar",
+  "fiba_person_id": 425969,
+  "name": "Sarah Ousfar",
+  "dob": "1993-07-28",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "AEL Limassol WBC"
+  ],
+  "games_on_sheet": 3,
+  "position": "",
+  "height_cm": 184,
+  "number": "8",
+  "club": "AEL Limassol WBC",
+  "club_country": "CYP",
+  "club_org": 8235,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "oceanie-monpierre",
+  "fiba_person_id": 224099,
+  "name": "Oceanie Monpierre",
+  "dob": "2000-10-31",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "ALBA Berlin"
+  ],
+  "games_on_sheet": 3,
+  "position": "Point Guard",
+  "height_cm": 170,
+  "number": "31",
+  "club": "ALBA Berlin",
+  "club_country": "GER",
+  "club_org": 66544,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "ana-tadic",
+  "fiba_person_id": 196698,
+  "name": "Ana Tadic",
+  "dob": "1998-09-21",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Athinaikos Qualco"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 198,
+  "number": "15",
+  "club": "Athinaikos Qualco",
+  "club_country": "GRE",
+  "club_org": 65714,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "aminata-diagne",
+  "fiba_person_id": 345039,
+  "name": "Aminata Diagne",
+  "dob": "2007-03-06",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Basket Landes"
+  ],
+  "games_on_sheet": 1,
+  "position": "Power Forward",
+  "height_cm": 191,
+  "number": "",
+  "club": "Basket Landes",
+  "club_country": "FRA",
+  "club_org": 8916,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "camille-droguet",
+  "fiba_person_id": 224097,
+  "name": "Camille Droguet",
+  "dob": "1999-06-15",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Basket Landes"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 178,
+  "number": "7",
+  "club": "Basket Landes",
+  "club_country": "FRA",
+  "club_org": 8916,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "emma-dechanoz",
+  "fiba_person_id": 345023,
+  "name": "Emma Dechanoz",
+  "dob": "2007-03-03",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Basket Landes"
+  ],
+  "games_on_sheet": 1,
+  "position": "Point Guard",
+  "height_cm": 169,
+  "number": "",
+  "club": "Basket Landes",
+  "club_country": "FRA",
+  "club_org": 8916,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "emma-peytour",
+  "fiba_person_id": 253743,
+  "name": "Emma Peytour",
+  "dob": "2000-08-11",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Basket Landes"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 172,
+  "number": "10",
+  "club": "Basket Landes",
+  "club_country": "FRA",
+  "club_org": 8916,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "mariama-daramy",
+  "fiba_person_id": 254405,
+  "name": "Mariama Daramy",
+  "dob": "2002-08-11",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Basket Landes"
+  ],
+  "games_on_sheet": 3,
+  "position": "Small Forward",
+  "height_cm": 178,
+  "number": "9",
+  "club": "Basket Landes",
+  "club_country": "FRA",
+  "club_org": 8916,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "marie-pardon",
+  "fiba_person_id": 237519,
+  "name": "Marie Pardon",
+  "dob": "2001-01-05",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Basket Landes"
+  ],
+  "games_on_sheet": 3,
+  "position": "Point Guard",
+  "height_cm": 178,
+  "number": "5",
+  "club": "Basket Landes",
+  "club_country": "FRA",
+  "club_org": 8916,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "sixtine-macquet",
+  "fiba_person_id": 226186,
+  "name": "Sixtine Macquet",
+  "dob": "2000-12-05",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Basket Landes"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 190,
+  "number": "13",
+  "club": "Basket Landes",
+  "club_country": "FRA",
+  "club_org": 8916,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "sophia-elenga",
+  "fiba_person_id": 183443,
+  "name": "Sophia Elenga",
+  "dob": "1995-06-01",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Basket Landes"
+  ],
+  "games_on_sheet": 3,
+  "position": "Small Forward",
+  "height_cm": 184,
+  "number": "6",
+  "club": "Basket Landes",
+  "club_country": "FRA",
+  "club_org": 8916,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "maeva-febrissy",
+  "fiba_person_id": 324562,
+  "name": "Maeva Febrissy",
+  "dob": "2004-01-26",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Basket Namur Capitale"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 173,
+  "number": "26",
+  "club": "Basket Namur Capitale",
+  "club_country": "BEL",
+  "club_org": 313,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "india-farcy",
+  "fiba_person_id": 254411,
+  "name": "India Farcy",
+  "dob": "2002-07-31",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BC Montana 2003"
+  ],
+  "games_on_sheet": 3,
+  "position": "Point Guard",
+  "height_cm": 178,
+  "number": "4",
+  "club": "BC Montana 2003",
+  "club_country": "BUL",
+  "club_org": 813,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "mila-benjak",
+  "fiba_person_id": 365363,
+  "name": "Mila Benjak",
+  "dob": "2008-03-13",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BCF Elfic Fribourg"
+  ],
+  "games_on_sheet": 3,
+  "position": "Small Forward",
+  "height_cm": 182,
+  "number": "14",
+  "club": "BCF Elfic Fribourg",
+  "club_country": "SUI",
+  "club_org": 9488,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "angelina-turmel",
+  "fiba_person_id": 196702,
+  "name": "Angelina Turmel",
+  "dob": "1996-11-21",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Beroe Stara Zagora"
+  ],
+  "games_on_sheet": 2,
+  "position": "Center",
+  "height_cm": 197,
+  "number": "12",
+  "club": "Beroe Stara Zagora",
+  "club_country": "BUL",
+  "club_org": 65820,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "marieme-badiane",
+  "fiba_person_id": 183622,
+  "name": "Marieme Badiane",
+  "dob": "1994-11-24",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Besiktas BOA"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 190,
+  "number": "25",
+  "club": "Besiktas BOA",
+  "club_country": "TUR",
+  "club_org": 65469,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "axelle-raggiri",
+  "fiba_person_id": 369134,
+  "name": "Axelle Raggiri",
+  "dob": "2008-06-09",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BLMA"
+  ],
+  "games_on_sheet": 3,
+  "position": "",
+  "height_cm": null,
+  "number": "20",
+  "club": "BLMA",
+  "club_country": "FRA",
+  "club_org": 8232,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "garance-rabot",
+  "fiba_person_id": 289983,
+  "name": "Garance Rabot",
+  "dob": "2002-06-04",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BLMA"
+  ],
+  "games_on_sheet": 1,
+  "position": "Power Forward",
+  "height_cm": 180,
+  "number": "",
+  "club": "BLMA",
+  "club_country": "FRA",
+  "club_org": 8232,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "lina-sardi-lakedja",
+  "fiba_person_id": 418904,
+  "name": "Lina Sardi Lakedja",
+  "dob": "2008-04-07",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BLMA"
+  ],
+  "games_on_sheet": 3,
+  "position": "",
+  "height_cm": null,
+  "number": "5",
+  "club": "BLMA",
+  "club_country": "FRA",
+  "club_org": 8232,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "maelys-dupont",
+  "fiba_person_id": 403425,
+  "name": "Maelys Dupont",
+  "dob": "2007-11-08",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BLMA"
+  ],
+  "games_on_sheet": 2,
+  "position": "",
+  "height_cm": null,
+  "number": "",
+  "club": "BLMA",
+  "club_country": "FRA",
+  "club_org": 8232,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "maryama-m-baye",
+  "fiba_person_id": 369127,
+  "name": "Maryama M'Baye",
+  "dob": "2008-07-07",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BLMA"
+  ],
+  "games_on_sheet": 1,
+  "position": "",
+  "height_cm": null,
+  "number": "",
+  "club": "BLMA",
+  "club_country": "FRA",
+  "club_org": 8232,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "mathilde-domenger",
+  "fiba_person_id": 226145,
+  "name": "Mathilde Domenger",
+  "dob": "2001-04-22",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BLMA"
+  ],
+  "games_on_sheet": 1,
+  "position": "Point Guard",
+  "height_cm": 170,
+  "number": "8",
+  "club": "BLMA",
+  "club_country": "FRA",
+  "club_org": 8232,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "oumou-diarisso",
+  "fiba_person_id": 256113,
+  "name": "Oumou Diarisso",
+  "dob": "2003-05-01",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BLMA"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 192,
+  "number": "76",
+  "club": "BLMA",
+  "club_country": "FRA",
+  "club_org": 8232,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "romane-bernies",
+  "fiba_person_id": 175635,
+  "name": "Romane Bernies",
+  "dob": "1993-06-27",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BLMA"
+  ],
+  "games_on_sheet": 1,
+  "position": "Point Guard",
+  "height_cm": 170,
+  "number": "",
+  "club": "BLMA",
+  "club_country": "FRA",
+  "club_org": 8232,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "sara-chevaugeon",
+  "fiba_person_id": 175640,
+  "name": "Sara Chevaugeon",
+  "dob": "1993-02-12",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BLMA"
+  ],
+  "games_on_sheet": 3,
+  "position": "Guard",
+  "height_cm": 177,
+  "number": "10",
+  "club": "BLMA",
+  "club_country": "FRA",
+  "club_org": 8232,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "sarah-cisse",
+  "fiba_person_id": 322588,
+  "name": "Sarah Cisse",
+  "dob": "2007-01-26",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "BLMA"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 190,
+  "number": "19",
+  "club": "BLMA",
+  "club_country": "FRA",
+  "club_org": 8232,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "ana-maria-filip",
+  "fiba_person_id": 147994,
+  "name": "Ana Maria Filip",
+  "dob": "1989-06-20",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "C'Chartres Metropole Basket Feminin"
+  ],
+  "games_on_sheet": 5,
+  "position": "Center",
+  "height_cm": 195,
+  "number": "9",
+  "club": "C'Chartres Metropole Basket Feminin",
+  "club_country": "FRA",
+  "club_org": 82422,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "assitan-kone",
+  "fiba_person_id": 183641,
+  "name": "Assitan Kone",
+  "dob": "1995-04-23",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "C'Chartres Metropole Basket Feminin"
+  ],
+  "games_on_sheet": 5,
+  "position": "Power Forward",
+  "height_cm": 190,
+  "number": "26",
+  "club": "C'Chartres Metropole Basket Feminin",
+  "club_country": "FRA",
+  "club_org": 82422,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "blanche-mavambou",
+  "fiba_person_id": 227343,
+  "name": "Blanche Mavambou",
+  "dob": "2000-04-21",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "C'Chartres Metropole Basket Feminin"
+  ],
+  "games_on_sheet": 5,
+  "position": "",
+  "height_cm": 183,
+  "number": "8",
+  "club": "C'Chartres Metropole Basket Feminin",
+  "club_country": "FRA",
+  "club_org": 82422,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "celine-hortense-gomis",
+  "fiba_person_id": 415676,
+  "name": "Céline Hortense Gomis",
+  "dob": "2008-04-30",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "C'Chartres Metropole Basket Feminin"
+  ],
+  "games_on_sheet": 3,
+  "position": "Small Forward",
+  "height_cm": 183,
+  "number": "28",
+  "club": "C'Chartres Metropole Basket Feminin",
+  "club_country": "FRA",
+  "club_org": 82422,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "clarisse-legrand",
+  "fiba_person_id": 196692,
+  "name": "Clarisse Legrand",
+  "dob": "1996-04-28",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "C'Chartres Metropole Basket Feminin"
+  ],
+  "games_on_sheet": 5,
+  "position": "Forward",
+  "height_cm": 182,
+  "number": "7",
+  "club": "C'Chartres Metropole Basket Feminin",
+  "club_country": "FRA",
+  "club_org": 82422,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "coralie-chabrier",
+  "fiba_person_id": 226143,
+  "name": "Coralie Chabrier",
+  "dob": "2000-04-28",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "C'Chartres Metropole Basket Feminin"
+  ],
+  "games_on_sheet": 5,
+  "position": "Point Guard",
+  "height_cm": 169,
+  "number": "25",
+  "club": "C'Chartres Metropole Basket Feminin",
+  "club_country": "FRA",
+  "club_org": 82422,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "elise-marie",
+  "fiba_person_id": 185586,
+  "name": "Elise Marie",
+  "dob": "1995-07-22",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "C'Chartres Metropole Basket Feminin"
+  ],
+  "games_on_sheet": 5,
+  "position": "",
+  "height_cm": null,
+  "number": "21",
+  "club": "C'Chartres Metropole Basket Feminin",
+  "club_country": "FRA",
+  "club_org": 82422,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "joana-konate",
+  "fiba_person_id": 392977,
+  "name": "Joana Konate",
+  "dob": "2009-10-18",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "C'Chartres Metropole Basket Feminin"
+  ],
+  "games_on_sheet": 1,
+  "position": "Forward",
+  "height_cm": 179,
+  "number": "",
+  "club": "C'Chartres Metropole Basket Feminin",
+  "club_country": "FRA",
+  "club_org": 82422,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "racky-camara",
+  "fiba_person_id": 392048,
+  "name": "Racky Camara",
+  "dob": "2009-07-18",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "C'Chartres Metropole Basket Feminin"
+  ],
+  "games_on_sheet": 1,
+  "position": "",
+  "height_cm": null,
+  "number": "",
+  "club": "C'Chartres Metropole Basket Feminin",
+  "club_country": "FRA",
+  "club_org": 82422,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "yvanna-enjolvy",
+  "fiba_person_id": 237513,
+  "name": "Yvanna Enjolvy",
+  "dob": "2001-10-27",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "C'Chartres Metropole Basket Feminin"
+  ],
+  "games_on_sheet": 5,
+  "position": "",
+  "height_cm": 170,
+  "number": "2",
+  "club": "C'Chartres Metropole Basket Feminin",
+  "club_country": "FRA",
+  "club_org": 82422,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "ornella-bankole",
+  "fiba_person_id": 196660,
+  "name": "Ornella Bankole",
+  "dob": "1997-09-17",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Casademont Zaragoza"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 181,
+  "number": "3",
+  "club": "Casademont Zaragoza",
+  "club_country": "ESP",
+  "club_org": 72868,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "binta-drame",
+  "fiba_person_id": 237510,
+  "name": "Binta Drame",
+  "dob": "2002-05-16",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Point Guard",
+  "height_cm": 170,
+  "number": "32",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "club_org": 58257,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "camille-sevaux",
+  "fiba_person_id": 369139,
+  "name": "Camille Sevaux",
+  "dob": "2009-04-29",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Power Forward",
+  "height_cm": 185,
+  "number": "70",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "club_org": 58257,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "claire-dalstra",
+  "fiba_person_id": 345043,
+  "name": "Claire Dalstra",
+  "dob": "2007-03-23",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 197,
+  "number": "15",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "club_org": 58257,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "lola-dely",
+  "fiba_person_id": 368244,
+  "name": "Lola Dely",
+  "dob": "2007-08-04",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 2,
+  "position": "",
+  "height_cm": null,
+  "number": "8",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "club_org": 58257,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "louise-bussiere",
+  "fiba_person_id": 254404,
+  "name": "Louise Bussiere",
+  "dob": "2002-08-07",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Small Forward",
+  "height_cm": 181,
+  "number": "28",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "club_org": 58257,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "margaux-raimbault",
+  "fiba_person_id": 369136,
+  "name": "Margaux Raimbault",
+  "dob": "2008-06-04",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 182,
+  "number": "30",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "club_org": 58257,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "maye-toure",
+  "fiba_person_id": 254441,
+  "name": "Maye Toure",
+  "dob": "2002-03-04",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 186,
+  "number": "21",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "club_org": 58257,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "carla-leite",
+  "fiba_person_id": 297990,
+  "name": "Carla Leite",
+  "dob": "2004-04-16",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "CIMSA CBK Mersin"
+  ],
+  "games_on_sheet": 3,
+  "position": "Point Guard",
+  "height_cm": 175,
+  "number": "0",
+  "club": "CIMSA CBK Mersin",
+  "club_country": "TUR",
+  "club_org": 58380,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "kariata-diaby",
+  "fiba_person_id": 205973,
+  "name": "Kariata Diaby",
+  "dob": "1995-06-29",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "CIMSA CBK Mersin"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 193,
+  "number": "29",
+  "club": "CIMSA CBK Mersin",
+  "club_country": "TUR",
+  "club_org": 58380,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "diana-balayera",
+  "fiba_person_id": 210143,
+  "name": "Diana Balayera",
+  "dob": "1996-01-28",
+  "competitions": [
+   "ELW",
+   "ECW"
+  ],
+  "clubs": [
+   "DVTK HUNTHERM"
+  ],
+  "games_on_sheet": 4,
+  "position": "Center",
+  "height_cm": 191,
+  "number": "77",
+  "club": "DVTK HUNTHERM",
+  "club_country": "HUN",
+  "club_org": 3883,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "leila-lacan",
+  "fiba_person_id": 271135,
+  "name": "Leila Lacan",
+  "dob": "2004-06-02",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Fenerbahce Tarfin"
+  ],
+  "games_on_sheet": 3,
+  "position": "Guard",
+  "height_cm": 182,
+  "number": "71",
+  "club": "Fenerbahce Tarfin",
+  "club_country": "TUR",
+  "club_org": 65448,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "nell-angloma",
+  "fiba_person_id": 298543,
+  "name": "Nell Angloma",
+  "dob": "2006-06-12",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Fenerbahce Tarfin"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 185,
+  "number": "33",
+  "club": "Fenerbahce Tarfin",
+  "club_country": "TUR",
+  "club_org": 65448,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "tima-pouye",
+  "fiba_person_id": 211043,
+  "name": "Tima Pouye",
+  "dob": "1999-04-07",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Fenerbahce Tarfin"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 175,
+  "number": "32",
+  "club": "Fenerbahce Tarfin",
+  "club_country": "TUR",
+  "club_org": 65448,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "coline-franchelin",
+  "fiba_person_id": 219441,
+  "name": "Coline Franchelin",
+  "dob": "1999-08-18",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Flammes Carolo Basket"
+  ],
+  "games_on_sheet": 5,
+  "position": "Point Guard",
+  "height_cm": 166,
+  "number": "2",
+  "club": "Flammes Carolo Basket",
+  "club_country": "FRA",
+  "club_org": 9252,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "isabelle-strunc",
+  "fiba_person_id": 155986,
+  "name": "Isabelle Strunc",
+  "dob": "1991-03-08",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Flammes Carolo Basket"
+  ],
+  "games_on_sheet": 5,
+  "position": "Guard",
+  "height_cm": 180,
+  "number": "8",
+  "club": "Flammes Carolo Basket",
+  "club_country": "FRA",
+  "club_org": 9252,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "maia-hirsch",
+  "fiba_person_id": 254412,
+  "name": "Maia Hirsch",
+  "dob": "2003-11-13",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Flammes Carolo Basket"
+  ],
+  "games_on_sheet": 5,
+  "position": "Center",
+  "height_cm": 195,
+  "number": "33",
+  "club": "Flammes Carolo Basket",
+  "club_country": "FRA",
+  "club_org": 9252,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "noemie-brochant",
+  "fiba_person_id": 219437,
+  "name": "Noemie Brochant",
+  "dob": "1999-10-25",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Flammes Carolo Basket"
+  ],
+  "games_on_sheet": 4,
+  "position": "Power Forward",
+  "height_cm": 178,
+  "number": "1",
+  "club": "Flammes Carolo Basket",
+  "club_country": "FRA",
+  "club_org": 9252,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "tenin-magassa",
+  "fiba_person_id": 226187,
+  "name": "Tenin Magassa",
+  "dob": "2001-09-19",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Flammes Carolo Basket"
+  ],
+  "games_on_sheet": 5,
+  "position": "Center",
+  "height_cm": 197,
+  "number": "6",
+  "club": "Flammes Carolo Basket",
+  "club_country": "FRA",
+  "club_org": 9252,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "vaciana-gomis",
+  "fiba_person_id": 269677,
+  "name": "Vaciana Gomis",
+  "dob": "2002-12-20",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Flammes Carolo Basket"
+  ],
+  "games_on_sheet": 2,
+  "position": "Shooting Guard",
+  "height_cm": 171,
+  "number": "",
+  "club": "Flammes Carolo Basket",
+  "club_country": "FRA",
+  "club_org": 9252,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "wallen-rhennam-vainqueur",
+  "fiba_person_id": 369138,
+  "name": "Wallen Rhennam-Vainqueur",
+  "dob": "2008-10-21",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Flammes Carolo Basket"
+  ],
+  "games_on_sheet": 5,
+  "position": "Shooting Guard",
+  "height_cm": 178,
+  "number": "10",
+  "club": "Flammes Carolo Basket",
+  "club_country": "FRA",
+  "club_org": 9252,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "marine-fauthoux",
+  "fiba_person_id": 226150,
+  "name": "Marine Fauthoux",
+  "dob": "2001-01-23",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Galatasaray Cagdas Faktoring"
+  ],
+  "games_on_sheet": 1,
+  "position": "Point Guard",
+  "height_cm": 176,
+  "number": "4",
+  "club": "Galatasaray Cagdas Faktoring",
+  "club_country": "TUR",
+  "club_org": 65445,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "marie-mane",
+  "fiba_person_id": 191621,
+  "name": "Marie Mane",
+  "dob": "1995-12-12",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Hozono Global Jairis"
+  ],
+  "games_on_sheet": 3,
+  "position": "Forward",
+  "height_cm": 183,
+  "number": "1",
+  "club": "Hozono Global Jairis",
+  "club_country": "ESP",
+  "club_org": 85957,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "zoe-wadoux",
+  "fiba_person_id": 226199,
+  "name": "Zoe Wadoux",
+  "dob": "2001-01-07",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Kibirkstis-TOKS"
+  ],
+  "games_on_sheet": 5,
+  "position": "Shooting Guard",
+  "height_cm": 178,
+  "number": "3",
+  "club": "Kibirkstis-TOKS",
+  "club_country": "LTU",
+  "club_org": 8996,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "caroline-heriaud",
+  "fiba_person_id": 275546,
+  "name": "Caroline Heriaud",
+  "dob": "1996-12-22",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Landerneau Bretagne Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Point Guard",
+  "height_cm": 165,
+  "number": "6",
+  "club": "Landerneau Bretagne Basket",
+  "club_country": "FRA",
+  "club_org": 58258,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "emma-cariou",
+  "fiba_person_id": 424713,
+  "name": "Emma Cariou",
+  "dob": "2008-09-04",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Landerneau Bretagne Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "",
+  "height_cm": null,
+  "number": "4",
+  "club": "Landerneau Bretagne Basket",
+  "club_country": "FRA",
+  "club_org": 58258,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "hawa-komara",
+  "fiba_person_id": 271134,
+  "name": "Hawa Komara",
+  "dob": "2003-08-22",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Landerneau Bretagne Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Power Forward",
+  "height_cm": 182,
+  "number": "22",
+  "club": "Landerneau Bretagne Basket",
+  "club_country": "FRA",
+  "club_org": 58258,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "janice-albert",
+  "fiba_person_id": 420987,
+  "name": "Janice Albert",
+  "dob": "2007-10-16",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Landerneau Bretagne Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "",
+  "height_cm": null,
+  "number": "12",
+  "club": "Landerneau Bretagne Basket",
+  "club_country": "FRA",
+  "club_org": 58258,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "lea-cortana",
+  "fiba_person_id": 424719,
+  "name": "Lea Cortana",
+  "dob": "2008-04-21",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Landerneau Bretagne Basket"
+  ],
+  "games_on_sheet": 2,
+  "position": "",
+  "height_cm": null,
+  "number": "3",
+  "club": "Landerneau Bretagne Basket",
+  "club_country": "FRA",
+  "club_org": 58258,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "manaelle-yerbe",
+  "fiba_person_id": 424727,
+  "name": "Manaelle Yerbe",
+  "dob": "2004-08-18",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Landerneau Bretagne Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "",
+  "height_cm": null,
+  "number": "18",
+  "club": "Landerneau Bretagne Basket",
+  "club_country": "FRA",
+  "club_org": 58258,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "mathilde-selle",
+  "fiba_person_id": 320375,
+  "name": "Mathilde Selle",
+  "dob": "2006-04-07",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Landerneau Bretagne Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 192,
+  "number": "24",
+  "club": "Landerneau Bretagne Basket",
+  "club_country": "FRA",
+  "club_org": 58258,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "naelle-boudhil",
+  "fiba_person_id": 424729,
+  "name": "Naelle Boudhil",
+  "dob": "2007-05-10",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Landerneau Bretagne Basket"
+  ],
+  "games_on_sheet": 2,
+  "position": "",
+  "height_cm": null,
+  "number": "26",
+  "club": "Landerneau Bretagne Basket",
+  "club_country": "FRA",
+  "club_org": 58258,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "sara-roumy",
+  "fiba_person_id": 255153,
+  "name": "Sara Roumy",
+  "dob": "2003-11-07",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "MEINS Avenida"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 181,
+  "number": "9",
+  "club": "MEINS Avenida",
+  "club_country": "ESP",
+  "club_org": 8008,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "yohana-ewodo",
+  "fiba_person_id": 226148,
+  "name": "Yohana Ewodo",
+  "dob": "2001-02-21",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Olympiacos SFP"
+  ],
+  "games_on_sheet": 3,
+  "position": "Small Forward",
+  "height_cm": 184,
+  "number": "8",
+  "club": "Olympiacos SFP",
+  "club_country": "GRE",
+  "club_org": 65519,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "elle-ladine",
+  "fiba_person_id": 423035,
+  "name": "Elle Ladine",
+  "dob": "2004-12-28",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "PRO-NETWORK ENEA AJP Gorzow"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 181,
+  "number": "30",
+  "club": "PRO-NETWORK ENEA AJP Gorzow",
+  "club_country": "POL",
+  "club_org": 8365,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "eleonore-villiot",
+  "fiba_person_id": 419894,
+  "name": "Eleonore Villiot",
+  "dob": "2009-08-24",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Ravens de Geneve"
+  ],
+  "games_on_sheet": 1,
+  "position": "Point Guard",
+  "height_cm": 165,
+  "number": "",
+  "club": "Ravens de Geneve",
+  "club_country": "SUI",
+  "club_org": 58714,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "marah-mougnutou",
+  "fiba_person_id": 276596,
+  "name": "Marah Mougnutou",
+  "dob": "2009-04-06",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Ravens de Geneve"
+  ],
+  "games_on_sheet": 2,
+  "position": "",
+  "height_cm": null,
+  "number": "27",
+  "club": "Ravens de Geneve",
+  "club_country": "SUI",
+  "club_org": 58714,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "melyssa-dutruel",
+  "fiba_person_id": 238784,
+  "name": "Melyssa Dutruel",
+  "dob": "2002-02-25",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Ravens de Geneve"
+  ],
+  "games_on_sheet": 2,
+  "position": "",
+  "height_cm": null,
+  "number": "11",
+  "club": "Ravens de Geneve",
+  "club_country": "SUI",
+  "club_org": 58714,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "marina-ewodo",
+  "fiba_person_id": 211037,
+  "name": "Marina Ewodo",
+  "dob": "1998-06-24",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "SBS Ostrava"
+  ],
+  "games_on_sheet": 3,
+  "position": "Forward",
+  "height_cm": 185,
+  "number": "14",
+  "club": "SBS Ostrava",
+  "club_country": "CZE",
+  "club_org": 58104,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "axelle-merceron",
+  "fiba_person_id": 297847,
+  "name": "Axelle Merceron",
+  "dob": "2003-04-25",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Spar Girona"
+  ],
+  "games_on_sheet": 1,
+  "position": "Power Forward",
+  "height_cm": 189,
+  "number": "",
+  "club": "Spar Girona",
+  "club_country": "ESP",
+  "club_org": 65758,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "alix-duchet",
+  "fiba_person_id": 196688,
+  "name": "Alix Duchet",
+  "dob": "1997-12-30",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 2,
+  "position": "Point Guard",
+  "height_cm": 168,
+  "number": "39",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "club_org": 928,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "anna-mane",
+  "fiba_person_id": 368465,
+  "name": "Anna Mane",
+  "dob": "2008-09-05",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 2,
+  "position": "Forward",
+  "height_cm": 187,
+  "number": "",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "club_org": 928,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "clarince-djaldi-tabdi",
+  "fiba_person_id": 183630,
+  "name": "Clarince Djaldi-Tabdi",
+  "dob": "1995-12-06",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 184,
+  "number": "36",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "club_org": 928,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "elodie-naigre",
+  "fiba_person_id": 199243,
+  "name": "Elodie Naigre",
+  "dob": "1995-06-07",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Power Forward",
+  "height_cm": 184,
+  "number": "25",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "club_org": 928,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "ines-pitarch-granel",
+  "fiba_person_id": 297569,
+  "name": "Ines Pitarch-Granel",
+  "dob": "2006-05-06",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 181,
+  "number": "26",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "club_org": 928,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "maeva-djaldi-tabdi",
+  "fiba_person_id": 209538,
+  "name": "Maeva Djaldi-Tabdi",
+  "dob": "1998-12-03",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Center",
+  "height_cm": 187,
+  "number": "3",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "club_org": 928,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "maewenn-poilve",
+  "fiba_person_id": 345033,
+  "name": "Maewenn Poilve",
+  "dob": "2007-12-04",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 179,
+  "number": "1",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "club_org": 928,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "marie-paule-foppossi",
+  "fiba_person_id": 204412,
+  "name": "Marie-Paule Foppossi",
+  "dob": "1998-01-28",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 3,
+  "position": "Small Forward",
+  "height_cm": 189,
+  "number": "2",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "club_org": 928,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "rokia-bamba",
+  "fiba_person_id": 369188,
+  "name": "Rokia Bamba",
+  "dob": "2008-08-18",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 2,
+  "position": "Guard",
+  "height_cm": 165,
+  "number": "",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "club_org": 928,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "alexia-chery",
+  "fiba_person_id": 204402,
+  "name": "Alexia Chery",
+  "dob": "1998-09-05",
+  "competitions": [
+   "ELW",
+   "ECW"
+  ],
+  "clubs": [
+   "Umana Reyer Venezia"
+  ],
+  "games_on_sheet": 5,
+  "position": "Power Forward",
+  "height_cm": 190,
+  "number": "12",
+  "club": "Umana Reyer Venezia",
+  "club_country": "ITA",
+  "club_org": 65571,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "anna-ngo-ndjock",
+  "fiba_person_id": 237450,
+  "name": "Anna Ngo Ndjock",
+  "dob": "1999-01-14",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Villeneuve d'Ascq LM"
+  ],
+  "games_on_sheet": 2,
+  "position": "Guard",
+  "height_cm": 176,
+  "number": "0",
+  "club": "Villeneuve d'Ascq LM",
+  "club_country": "FRA",
+  "club_org": 4106,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "awa-trasi",
+  "fiba_person_id": 219449,
+  "name": "Awa Trasi",
+  "dob": "1999-04-23",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Villeneuve d'Ascq LM"
+  ],
+  "games_on_sheet": 2,
+  "position": "Center",
+  "height_cm": 189,
+  "number": "32",
+  "club": "Villeneuve d'Ascq LM",
+  "club_country": "FRA",
+  "club_org": 4106,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "bria-hartley",
+  "fiba_person_id": 181916,
+  "name": "Bria Hartley",
+  "dob": "1992-09-30",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Villeneuve d'Ascq LM"
+  ],
+  "games_on_sheet": 1,
+  "position": "Shooting Guard",
+  "height_cm": 176,
+  "number": "14",
+  "club": "Villeneuve d'Ascq LM",
+  "club_country": "FRA",
+  "club_org": 4106,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "eva-bach",
+  "fiba_person_id": 425042,
+  "name": "Eva Bach",
+  "dob": "2008-08-29",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Villeneuve d'Ascq LM"
+  ],
+  "games_on_sheet": 1,
+  "position": "",
+  "height_cm": null,
+  "number": "",
+  "club": "Villeneuve d'Ascq LM",
+  "club_country": "FRA",
+  "club_org": 4106,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "maelie-butez",
+  "fiba_person_id": 425044,
+  "name": "Maelie Butez",
+  "dob": "2007-12-18",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Villeneuve d'Ascq LM"
+  ],
+  "games_on_sheet": 1,
+  "position": "",
+  "height_cm": null,
+  "number": "",
+  "club": "Villeneuve d'Ascq LM",
+  "club_country": "FRA",
+  "club_org": 4106,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "manoe-cisse",
+  "fiba_person_id": 272784,
+  "name": "Manoe Cisse",
+  "dob": "2004-05-08",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Villeneuve d'Ascq LM"
+  ],
+  "games_on_sheet": 2,
+  "position": "Point Guard",
+  "height_cm": 162,
+  "number": "20",
+  "club": "Villeneuve d'Ascq LM",
+  "club_country": "FRA",
+  "club_org": 4106,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "marie-michelle-milapie",
+  "fiba_person_id": 191624,
+  "name": "Marie-Michelle Milapie",
+  "dob": "1996-02-06",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Villeneuve d'Ascq LM"
+  ],
+  "games_on_sheet": 2,
+  "position": "Center",
+  "height_cm": 192,
+  "number": "13",
+  "club": "Villeneuve d'Ascq LM",
+  "club_country": "FRA",
+  "club_org": 4106,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "naema-kouadio",
+  "fiba_person_id": 376021,
+  "name": "Naema Kouadio",
+  "dob": "2006-09-17",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Villeneuve d'Ascq LM"
+  ],
+  "games_on_sheet": 2,
+  "position": "Point Guard",
+  "height_cm": 180,
+  "number": "5",
+  "club": "Villeneuve d'Ascq LM",
+  "club_country": "FRA",
+  "club_org": 4106,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "stella-colas",
+  "fiba_person_id": 320366,
+  "name": "Stella Colas",
+  "dob": "2006-10-05",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Villeneuve d'Ascq LM"
+  ],
+  "games_on_sheet": 2,
+  "position": "Point Guard",
+  "height_cm": 177,
+  "number": "3",
+  "club": "Villeneuve d'Ascq LM",
+  "club_country": "FRA",
+  "club_org": 4106,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "migna-toure",
+  "fiba_person_id": 175762,
+  "name": "Migna Toure",
+  "dob": "1994-12-19",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "ZVVZ USK Praha"
+  ],
+  "games_on_sheet": 3,
+  "position": "Shooting Guard",
+  "height_cm": 183,
+  "number": "28",
+  "club": "ZVVZ USK Praha",
+  "club_country": "CZE",
+  "club_org": 65512,
+  "active": true,
+  "note": ""
+ },
+ {
+  "id": "pauline-astier",
+  "fiba_person_id": 254398,
+  "name": "Pauline Astier",
+  "dob": "2002-02-15",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "ZVVZ USK Praha"
+  ],
+  "games_on_sheet": 2,
+  "position": "Guard",
+  "height_cm": 179,
+  "number": "18",
+  "club": "ZVVZ USK Praha",
+  "club_country": "CZE",
+  "club_org": 65512,
+  "active": true,
+  "note": ""
+ }
+]

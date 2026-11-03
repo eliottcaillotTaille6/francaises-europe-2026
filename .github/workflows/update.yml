@@ -1,0 +1,87 @@
+name: Mise à jour quotidienne
+
+on:
+  schedule:
+    # 8 h à Paris toute l'année : 6 h UTC en heure d'été, 7 h UTC en heure d'hiver.
+    # Les deux horaires sont programmés, le job « gate » ne garde que le bon.
+    - cron: "0 6 * * *"
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["public/**", "config/**", "data/players.json"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - id: check
+        run: |
+          zone=$(TZ=Europe/Paris date +%Z)
+          run=true
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            case "${{ github.event.schedule }}|$zone" in
+              "0 6 * * *|CEST"|"0 7 * * *|CET") run=true ;;
+              *) run=false ;;
+            esac
+          fi
+          echo "Heure de Paris ($zone), lancement : $run"
+          echo "run=$run" >> "$GITHUB_OUTPUT"
+
+  update:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Cache HTTP local : les pages des matchs validés ne sont pas retéléchargées.
+      - uses: actions/cache@v4
+        with:
+          path: .cache/http
+          key: http-${{ github.run_id }}
+          restore-keys: http-
+
+      - name: Récupération des matchs et des vidéos
+        if: github.event_name != 'push'
+        run: node scripts/update.mjs
+
+      - name: Commit des données
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "francaises-europe-bot"
+          git config user.email "francaises-europe-bot@users.noreply.github.com"
+          git add data/games.json data/players.json data/missing-games.md
+          git diff --cached --quiet || git commit -m "Données du $(TZ=Europe/Paris date +%F)"
+          git push
+
+      - run: node scripts/build-site.mjs
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

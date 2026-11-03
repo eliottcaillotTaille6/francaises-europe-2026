@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Les Françaises en Coupe d'Europe</title>
+  <meta name="description" content="Les performances des joueuses françaises en EuroLeague Women et en EuroCup Women, match par match, saison 2026-27.">
+  <meta name="theme-color" content="#000000">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Aller au contenu</a>
+  <header class="site-header">
+    <a class="brand" href="#/">
+      <span class="brand-text"><strong>Les Françaises en Coupe d'Europe</strong><span>EuroLeague Women · EuroCup Women · saison 2026-27</span></span>
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="#/" data-nav="home">Derniers matchs</a>
+      <a href="#/tableau" data-nav="tableau">Tableau</a>
+      <a href="#/calendrier" data-nav="calendrier">Calendrier</a>
+    </nav>
+    <div class="refresh" id="refresh" hidden>
+      <button type="button" class="btn" id="refresh-btn">Actualiser</button>
+      <span class="refresh-info" id="refresh-info" aria-live="polite"></span>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <p class="loading">Chargement…</p>
+  </main>
+
+  <footer class="site-footer">
+    <p class="muted" id="updated"></p>
+    <p class="muted">Stats : feuilles de match officielles FIBA (fiba.basketball), reconstituées à partir du play-by-play.</p>
+  </footer>
+  <div class="tooltip" id="tooltip" role="tooltip" hidden></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
