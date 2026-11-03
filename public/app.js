@@ -52,17 +52,15 @@ function youtubeLinks(g) {
   return [{ label: yt.label ?? 'YouTube', url: `${yt.search_url ?? 'https://www.youtube.com/results?search_query='}${encodeURIComponent(query)}`, title: 'Recherche sur la chaîne YouTube officielle' }];
 }
 
-// Bouton « Clipper » (mode éditeur) : ouvre l'outil de clipping local avec la vidéo du match,
-// la page FIBA du match (play-by-play), le nom et le numéro de la joueuse. Vidéo : le match complet
-// s'il existe, sinon le résumé officiel.
+// Bouton « Clipper » (mode éditeur) : ouvre l'outil de clipping local avec le match complet (jamais le
+// résumé : l'analyse ne retrouve dans un résumé que les paniers montrés), la page FIBA du match
+// (play-by-play), le nom et le numéro de la joueuse. Pas de match complet : pas de bouton.
 function clipLink(g, l) {
   const clip = state.config.clipping;
   if (!ADMIN || !clip?.url || !l || l.status !== 'played') return null;
-  const full = g.youtube?.url && g.youtube.kind === 'full';
-  const video = full ? g.youtube : g.highlights?.url ? g.highlights : null;
-  if (!video) return null;
+  if (!g.youtube?.url || g.youtube.kind !== 'full') return null;
   const q = new URLSearchParams({
-    video: video.url,
+    video: g.youtube.url,
     pbp: g.links.game,
     name: state.byId.get(l.player_id)?.name ?? '',
     number: l.jersey ?? '',
@@ -70,9 +68,7 @@ function clipLink(g, l) {
     zones: 'fiba', // habillage TV identique sur tous les matchs : zones posées et analyse lancée par l'outil
     t: Date.now().toString(36), // adresse unique : Chrome ne ressert jamais une ancienne page de l'outil
   });
-  return full
-    ? { label: clip.label ?? 'Clipper', url: `${clip.url}?${q}`, title: 'Match complet : ouvrir dans l\'outil de clipping (vidéo, play-by-play et joueuse préremplis)' }
-    : { label: `${clip.label ?? 'Clipper'} (résumé)`, url: `${clip.url}?${q}`, title: `Résumé « ${video.title} » : seuls les paniers montrés dans le résumé seront retrouvés` };
+  return { label: clip.label ?? 'Clipper', url: `${clip.url}?${q}`, title: 'Match complet : ouvrir dans l\'outil de clipping (vidéo, play-by-play, joueuse et zones préremplis, analyse lancée)' };
 }
 
 function gameLinks(g, line) {

@@ -97,8 +97,9 @@ Ouvrir une fois le site avec `?admin` à la fin de l'adresse : le mode éditeur 
 
 - **Actualiser** (en haut) : ouvre la page GitHub de l'Action (cliquer « Run workflow »), puis le site se recharge tout
   seul dès que les nouvelles données sont publiées.
-- **Clipper** sur chaque ligne d'une joueuse qui a joué : ouvre l'outil de clipping du Mac (`http://127.0.0.1:8765/`,
-  `config/site.json` → `clipping.url`) avec la vidéo (match complet, sinon résumé : « Clipper (résumé) »), la page
+- **Clipper** sur chaque ligne d'une joueuse qui a joué, quand le match complet est sur YouTube (jamais avec un
+  résumé, où seuls les paniers montrés seraient retrouvés) : ouvre l'outil de clipping du Mac (`http://127.0.0.1:8765/`,
+  `config/site.json` → `clipping.url`) avec le match complet, la page
   FIBA du match comme play-by-play, le nom, le numéro et l'équipe (1 = à domicile), et `zones=fiba` : l'habillage TV
   étant le même sur tous les matchs des deux compétitions, l'outil pose lui-même les zones du quart-temps et du
   chrono, puis lance l'analyse. Il reste la vérification des clips et l'export. Vérifié au lancement : l'outil
