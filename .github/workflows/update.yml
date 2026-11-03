@@ -2,10 +2,11 @@ name: Mise à jour quotidienne
 
 on:
   schedule:
-    # 8 h à Paris toute l'année : 6 h UTC en heure d'été, 7 h UTC en heure d'hiver.
+    # 22 h 15 à Paris, les mardis, mercredis et jeudis (soirs de coupe d'Europe) :
+    # 20 h 15 UTC en heure d'été, 21 h 15 UTC en heure d'hiver.
     # Les deux horaires sont programmés, le job « gate » ne garde que le bon.
-    - cron: "0 6 * * *"
-    - cron: "0 7 * * *"
+    - cron: "15 20 * * 2,3,4"
+    - cron: "15 21 * * 2,3,4"
   workflow_dispatch:
   push:
     branches: [main]
@@ -32,7 +33,7 @@ jobs:
           run=true
           if [ "${{ github.event_name }}" = "schedule" ]; then
             case "${{ github.event.schedule }}|$zone" in
-              "0 6 * * *|CEST"|"0 7 * * *|CET") run=true ;;
+              "15 20 * * 2,3,4|CEST"|"15 21 * * 2,3,4|CET") run=true ;;
               *) run=false ;;
             esac
           fi

@@ -225,6 +225,7 @@ function pagePlayer(id) {
   return `<p><a href="#/tableau">← Tableau général</a></p>
     <h1>${esc(p.name)}</h1>
     <dl class="bio">${bio.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl>
+    ${Object.keys(p.fiba_pages ?? {}).length ? `<p class="links">${Object.entries(p.fiba_pages).map(([c, url]) => linkTag({ label: `Fiche ${compName(c)}`, url, title: `Sa page sur fiba.basketball (${compName(c)})` })).join('')}</p>` : ''}
     ${comps.length > 1
       ? comps.map((c) => `<h2>Moyennes en ${esc(compName(c))}</h2>${block(averages(id, c))}`).join('')
       : `<h2>Moyennes de la saison${comps[0] ? ` (${esc(compName(comps[0]))})` : ''}</h2>${block(averages(id))}`}

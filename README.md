@@ -1,8 +1,8 @@
 # Les Françaises en Coupe d'Europe
 
 Site statique qui suit, match par match, les joueuses françaises d'EuroLeague Women et d'EuroCup Women
-(saison 2026-27). Il se met à jour tout seul chaque matin à 8 h (heure de Paris) grâce à une GitHub Action,
-puis se redéploie sur GitHub Pages.
+(saison 2026-27). Il se met à jour tout seul les mardis, mercredis et jeudis à 22 h 15 (heure de Paris), soirs de
+coupe d'Europe, grâce à une GitHub Action, puis se redéploie sur GitHub Pages. Entre deux, bouton Actualiser.
 
 Site : <https://eliottcaillottaille6.github.io/francaises-europe-2026/>
 
@@ -54,7 +54,8 @@ Le bouton YouTube du site mène au match complet, sinon au résumé, sinon à la
 
 - **Derniers matchs** : les 7 derniers jours (une journée de coupe d'Europe s'étale du mardi au jeudi), cartes triées
   par points, et la liste des joueuses qui n'ont pas joué. Boutons semaine précédente / suivante.
-- **Fiche joueuse** : club, compétition, poste, taille, âge, moyennes (séparées par compétition si elle joue les
+- **Fiche joueuse** : club, compétition, lien vers sa page sur fiba.basketball (une par compétition ; adresse
+  construite à partir de son numéro FIBA et du club, vérifiée une fois), poste, taille, âge, moyennes (séparées par compétition si elle joue les
   deux), graphique des points, game log.
 - **Tableau** : toutes les joueuses, triable, filtres compétition (les moyennes sont alors recalculées), club, pays
   du club, poste.
@@ -110,8 +111,8 @@ Ouvrir une fois le site avec `?admin` à la fin de l'adresse : le mode éditeur 
 ## Déploiement
 
 Dépôt GitHub `eliottcaillotTaille6/francaises-europe-2026`, GitHub Pages en mode « GitHub Actions ».
-L'Action `.github/workflows/update.yml` tourne tous les jours à 8 h (heure de Paris : deux horaires UTC sont
-programmés pour suivre l'heure d'été, un seul s'exécute), commite `data/` puis redéploie. Elle redéploie aussi le
+L'Action `.github/workflows/update.yml` tourne les mardis, mercredis et jeudis à 22 h 15 (heure de Paris : deux
+horaires UTC sont programmés pour suivre l'heure d'été, un seul s'exécute), commite `data/` puis redéploie. Elle redéploie aussi le
 site à chaque push sur `public/`, `config/` ou `data/players.json`.
 
 ## Points d'attention

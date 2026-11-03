@@ -9,7 +9,8 @@
 import fs from 'node:fs';
 import { boxscore } from './lib/boxscore.mjs';
 import { competitionGames, gamePage, valueAfter } from './lib/fiba.mjs';
-import { findVideos } from './lib/youtube.mjs';
+import { findVideos, similarity } from './lib/youtube.mjs';
+import { fetchText } from './lib/http.mjs';
 
 const comps = JSON.parse(fs.readFileSync('config/competitions.json', 'utf8')).competitions;
 const players = JSON.parse(fs.readFileSync('data/players.json', 'utf8'));
@@ -141,6 +142,45 @@ for (const g of games.values()) {
     missing.push(`- Recherche des vidéos (${g.id}) : ${e.message}`);
   }
 }
+
+// ---------- fiche de chaque joueuse sur fiba.basketball, par compétition ----------
+// Adresse : /en/events/<compétition>/teams/<club>/<n° FIBA>-<prénom-nom>. Le club est pris dans la liste
+// des clubs de la compétition (page /teams) ; chaque lien est vérifié une fois (titre de la page = la joueuse).
+const teamSlugs = {};
+for (const c of comps) {
+  try {
+    const html = await fetchText(`https://www.fiba.basketball/en/events/${c.slug}/teams`, { ttl: 7 * 86400 });
+    teamSlugs[c.code] = [...new Set(html.match(new RegExp(`/en/events/${c.slug}/teams/[a-z0-9-]+(?=["\\\\/])`, 'g')) ?? [])]
+      .map((u) => u.split('/').pop());
+  } catch (e) {
+    missing.push(`- Liste des clubs ${c.name} illisible : ${e.message}`);
+  }
+}
+const lastTeam = {}; // joueuse -> compétition -> club (dernier match)
+for (const g of [...games.values()].sort((a, b) => a.tipoff_utc.localeCompare(b.tipoff_utc)))
+  for (const l of Object.values(g.lines)) (lastTeam[l.player_id] ??= {})[g.competition] = l.team;
+const pageErrors = [];
+for (const p of players) {
+  p.fiba_pages ??= {};
+  for (const [code, team] of Object.entries(lastTeam[p.id] ?? {})) {
+    const c = comps.find((x) => x.code === code);
+    const slugs = teamSlugs[code] ?? [];
+    const teamSlug = slugs.includes(slugify(team)) ? slugify(team)
+      : slugs.map((s) => [s, similarity(s.replace(/-/g, ' '), team)]).sort((a, b) => b[1] - a[1]).find(([, v]) => v >= 0.5)?.[0];
+    if (!teamSlug) { pageErrors.push(`${p.name} (${team}, ${c.name}) : club introuvable dans la liste FIBA`); continue; }
+    const url = `https://www.fiba.basketball/en/events/${c.slug}/teams/${teamSlug}/${p.fiba_person_id}-${slugify(p.name)}`;
+    if (p.fiba_pages[code] === url) continue;
+    try {
+      const title = /<title>([^<]*)/.exec(await fetchText(url, { ttl: 30 * 86400 }))?.[1] ?? '';
+      const last = p.name.split(' ').slice(1).join(' ');
+      if (/not found/i.test(title) || similarity(title, last) < 0.5) throw new Error(`titre « ${title} »`);
+      p.fiba_pages[code] = url;
+    } catch (e) {
+      pageErrors.push(`${p.name} (${c.name}) : ${url} → ${e.message}`);
+    }
+  }
+}
+if (pageErrors.length) missing.push(`- Fiches FIBA non trouvées :\n${pageErrors.map((x) => `  - ${x}`).join('\n')}`);
 
 const list = [...games.values()].sort((a, b) => a.tipoff_utc.localeCompare(b.tipoff_utc));
 fs.writeFileSync(GAMES, JSON.stringify({ updated: new Date().toISOString(), season: '2026-27', games: list }, null, 1) + '\n');

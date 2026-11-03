@@ -18,7 +18,10 @@
   "club_country": "CYP",
   "club_org": 8235,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/ael-limassol-wbc/425969-sarah-ousfar"
+  }
  },
  {
   "id": "oceanie-monpierre",
@@ -39,7 +42,10 @@
   "club_country": "GER",
   "club_org": 66544,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/alba-berlin/224099-oceanie-monpierre"
+  }
  },
  {
   "id": "ana-tadic",
@@ -60,7 +66,10 @@
   "club_country": "GRE",
   "club_org": 65714,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/athinaikos-qualco/196698-ana-tadic"
+  }
  },
  {
   "id": "aminata-diagne",
@@ -81,7 +90,10 @@
   "club_country": "FRA",
   "club_org": 8916,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/basket-landes/345039-aminata-diagne"
+  }
  },
  {
   "id": "camille-droguet",
@@ -102,7 +114,10 @@
   "club_country": "FRA",
   "club_org": 8916,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/basket-landes/224097-camille-droguet"
+  }
  },
  {
   "id": "emma-dechanoz",
@@ -123,7 +138,10 @@
   "club_country": "FRA",
   "club_org": 8916,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/basket-landes/345023-emma-dechanoz"
+  }
  },
  {
   "id": "emma-peytour",
@@ -144,7 +162,10 @@
   "club_country": "FRA",
   "club_org": 8916,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/basket-landes/253743-emma-peytour"
+  }
  },
  {
   "id": "mariama-daramy",
@@ -165,7 +186,10 @@
   "club_country": "FRA",
   "club_org": 8916,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/basket-landes/254405-mariama-daramy"
+  }
  },
  {
   "id": "marie-pardon",
@@ -186,7 +210,10 @@
   "club_country": "FRA",
   "club_org": 8916,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/basket-landes/237519-marie-pardon"
+  }
  },
  {
   "id": "sixtine-macquet",
@@ -207,7 +234,10 @@
   "club_country": "FRA",
   "club_org": 8916,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/basket-landes/226186-sixtine-macquet"
+  }
  },
  {
   "id": "sophia-elenga",
@@ -228,7 +258,10 @@
   "club_country": "FRA",
   "club_org": 8916,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/basket-landes/183443-sophia-elenga"
+  }
  },
  {
   "id": "maeva-febrissy",
@@ -249,7 +282,10 @@
   "club_country": "BEL",
   "club_org": 313,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/basket-namur-capitale/324562-maeva-febrissy"
+  }
  },
  {
   "id": "india-farcy",
@@ -270,7 +306,10 @@
   "club_country": "BUL",
   "club_org": 813,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/bc-montana-2003/254411-india-farcy"
+  }
  },
  {
   "id": "mila-benjak",
@@ -291,7 +330,10 @@
   "club_country": "SUI",
   "club_org": 9488,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/bcf-elfic-fribourg/365363-mila-benjak"
+  }
  },
  {
   "id": "angelina-turmel",
@@ -312,7 +354,10 @@
   "club_country": "BUL",
   "club_org": 65820,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/beroe-stara-zagora/196702-angelina-turmel"
+  }
  },
  {
   "id": "marieme-badiane",
@@ -333,7 +378,10 @@
   "club_country": "TUR",
   "club_org": 65469,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/besiktas-boa/183622-marieme-badiane"
+  }
  },
  {
   "id": "axelle-raggiri",
@@ -354,7 +402,10 @@
   "club_country": "FRA",
   "club_org": 8232,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/blma/369134-axelle-raggiri"
+  }
  },
  {
   "id": "garance-rabot",
@@ -375,7 +426,10 @@
   "club_country": "FRA",
   "club_org": 8232,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/blma/289983-garance-rabot"
+  }
  },
  {
   "id": "lina-sardi-lakedja",
@@ -396,7 +450,10 @@
   "club_country": "FRA",
   "club_org": 8232,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/blma/418904-lina-sardi-lakedja"
+  }
  },
  {
   "id": "maelys-dupont",
@@ -417,7 +474,10 @@
   "club_country": "FRA",
   "club_org": 8232,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/blma/403425-maelys-dupont"
+  }
  },
  {
   "id": "maryama-m-baye",
@@ -438,7 +498,10 @@
   "club_country": "FRA",
   "club_org": 8232,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/blma/369127-maryama-m-baye"
+  }
  },
  {
   "id": "mathilde-domenger",
@@ -459,7 +522,10 @@
   "club_country": "FRA",
   "club_org": 8232,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/blma/226145-mathilde-domenger"
+  }
  },
  {
   "id": "oumou-diarisso",
@@ -480,7 +546,10 @@
   "club_country": "FRA",
   "club_org": 8232,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/blma/256113-oumou-diarisso"
+  }
  },
  {
   "id": "romane-bernies",
@@ -501,7 +570,10 @@
   "club_country": "FRA",
   "club_org": 8232,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/blma/175635-romane-bernies"
+  }
  },
  {
   "id": "sara-chevaugeon",
@@ -522,7 +594,10 @@
   "club_country": "FRA",
   "club_org": 8232,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/blma/175640-sara-chevaugeon"
+  }
  },
  {
   "id": "sarah-cisse",
@@ -543,7 +618,10 @@
   "club_country": "FRA",
   "club_org": 8232,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/blma/322588-sarah-cisse"
+  }
  },
  {
   "id": "ana-maria-filip",
@@ -564,7 +642,10 @@
   "club_country": "FRA",
   "club_org": 82422,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cchartres-metropole-basket-feminin/147994-ana-maria-filip"
+  }
  },
  {
   "id": "assitan-kone",
@@ -585,7 +666,10 @@
   "club_country": "FRA",
   "club_org": 82422,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cchartres-metropole-basket-feminin/183641-assitan-kone"
+  }
  },
  {
   "id": "blanche-mavambou",
@@ -606,7 +690,10 @@
   "club_country": "FRA",
   "club_org": 82422,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cchartres-metropole-basket-feminin/227343-blanche-mavambou"
+  }
  },
  {
   "id": "celine-hortense-gomis",
@@ -627,7 +714,10 @@
   "club_country": "FRA",
   "club_org": 82422,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cchartres-metropole-basket-feminin/415676-celine-hortense-gomis"
+  }
  },
  {
   "id": "clarisse-legrand",
@@ -648,7 +738,10 @@
   "club_country": "FRA",
   "club_org": 82422,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cchartres-metropole-basket-feminin/196692-clarisse-legrand"
+  }
  },
  {
   "id": "coralie-chabrier",
@@ -669,7 +762,10 @@
   "club_country": "FRA",
   "club_org": 82422,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cchartres-metropole-basket-feminin/226143-coralie-chabrier"
+  }
  },
  {
   "id": "elise-marie",
@@ -690,7 +786,10 @@
   "club_country": "FRA",
   "club_org": 82422,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cchartres-metropole-basket-feminin/185586-elise-marie"
+  }
  },
  {
   "id": "joana-konate",
@@ -711,7 +810,10 @@
   "club_country": "FRA",
   "club_org": 82422,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cchartres-metropole-basket-feminin/392977-joana-konate"
+  }
  },
  {
   "id": "racky-camara",
@@ -732,7 +834,10 @@
   "club_country": "FRA",
   "club_org": 82422,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cchartres-metropole-basket-feminin/392048-racky-camara"
+  }
  },
  {
   "id": "yvanna-enjolvy",
@@ -753,7 +858,10 @@
   "club_country": "FRA",
   "club_org": 82422,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cchartres-metropole-basket-feminin/237513-yvanna-enjolvy"
+  }
  },
  {
   "id": "ornella-bankole",
@@ -774,7 +882,10 @@
   "club_country": "ESP",
   "club_org": 72868,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/casademont-zaragoza/196660-ornella-bankole"
+  }
  },
  {
   "id": "binta-drame",
@@ -795,7 +906,10 @@
   "club_country": "FRA",
   "club_org": 58257,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/237510-binta-drame"
+  }
  },
  {
   "id": "camille-sevaux",
@@ -816,7 +930,10 @@
   "club_country": "FRA",
   "club_org": 58257,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/369139-camille-sevaux"
+  }
  },
  {
   "id": "claire-dalstra",
@@ -837,7 +954,10 @@
   "club_country": "FRA",
   "club_org": 58257,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/345043-claire-dalstra"
+  }
  },
  {
   "id": "lola-dely",
@@ -858,7 +978,10 @@
   "club_country": "FRA",
   "club_org": 58257,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/368244-lola-dely"
+  }
  },
  {
   "id": "louise-bussiere",
@@ -879,7 +1002,10 @@
   "club_country": "FRA",
   "club_org": 58257,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/254404-louise-bussiere"
+  }
  },
  {
   "id": "margaux-raimbault",
@@ -900,7 +1026,10 @@
   "club_country": "FRA",
   "club_org": 58257,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/369136-margaux-raimbault"
+  }
  },
  {
   "id": "maye-toure",
@@ -921,7 +1050,10 @@
   "club_country": "FRA",
   "club_org": 58257,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/254441-maye-toure"
+  }
  },
  {
   "id": "carla-leite",
@@ -942,7 +1074,10 @@
   "club_country": "TUR",
   "club_org": 58380,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cimsa-cbk-mersin/297990-carla-leite"
+  }
  },
  {
   "id": "kariata-diaby",
@@ -963,7 +1098,10 @@
   "club_country": "TUR",
   "club_org": 58380,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/cimsa-cbk-mersin/205973-kariata-diaby"
+  }
  },
  {
   "id": "diana-balayera",
@@ -985,7 +1123,11 @@
   "club_country": "HUN",
   "club_org": 3883,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/dvtk-huntherm/210143-diana-balayera",
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/dvtk-huntherm/210143-diana-balayera"
+  }
  },
  {
   "id": "leila-lacan",
@@ -1006,7 +1148,10 @@
   "club_country": "TUR",
   "club_org": 65448,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/fenerbahce-tarfin/271135-leila-lacan"
+  }
  },
  {
   "id": "nell-angloma",
@@ -1027,7 +1172,10 @@
   "club_country": "TUR",
   "club_org": 65448,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/fenerbahce-tarfin/298543-nell-angloma"
+  }
  },
  {
   "id": "tima-pouye",
@@ -1048,7 +1196,10 @@
   "club_country": "TUR",
   "club_org": 65448,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/fenerbahce-tarfin/211043-tima-pouye"
+  }
  },
  {
   "id": "coline-franchelin",
@@ -1069,7 +1220,10 @@
   "club_country": "FRA",
   "club_org": 9252,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/flammes-carolo-basket/219441-coline-franchelin"
+  }
  },
  {
   "id": "isabelle-strunc",
@@ -1090,7 +1244,10 @@
   "club_country": "FRA",
   "club_org": 9252,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/flammes-carolo-basket/155986-isabelle-strunc"
+  }
  },
  {
   "id": "maia-hirsch",
@@ -1111,7 +1268,10 @@
   "club_country": "FRA",
   "club_org": 9252,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/flammes-carolo-basket/254412-maia-hirsch"
+  }
  },
  {
   "id": "noemie-brochant",
@@ -1132,7 +1292,10 @@
   "club_country": "FRA",
   "club_org": 9252,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/flammes-carolo-basket/219437-noemie-brochant"
+  }
  },
  {
   "id": "tenin-magassa",
@@ -1153,7 +1316,10 @@
   "club_country": "FRA",
   "club_org": 9252,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/flammes-carolo-basket/226187-tenin-magassa"
+  }
  },
  {
   "id": "vaciana-gomis",
@@ -1174,7 +1340,10 @@
   "club_country": "FRA",
   "club_org": 9252,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/flammes-carolo-basket/269677-vaciana-gomis"
+  }
  },
  {
   "id": "wallen-rhennam-vainqueur",
@@ -1195,7 +1364,10 @@
   "club_country": "FRA",
   "club_org": 9252,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/flammes-carolo-basket/369138-wallen-rhennam-vainqueur"
+  }
  },
  {
   "id": "marine-fauthoux",
@@ -1216,7 +1388,10 @@
   "club_country": "TUR",
   "club_org": 65445,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/galatasaray-cagdas-faktoring/226150-marine-fauthoux"
+  }
  },
  {
   "id": "marie-mane",
@@ -1237,7 +1412,10 @@
   "club_country": "ESP",
   "club_org": 85957,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/hozono-global-jairis/191621-marie-mane"
+  }
  },
  {
   "id": "zoe-wadoux",
@@ -1258,7 +1436,10 @@
   "club_country": "LTU",
   "club_org": 8996,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/kibirkstis-toks/226199-zoe-wadoux"
+  }
  },
  {
   "id": "caroline-heriaud",
@@ -1279,7 +1460,10 @@
   "club_country": "FRA",
   "club_org": 58258,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/landerneau-bretagne-basket/275546-caroline-heriaud"
+  }
  },
  {
   "id": "emma-cariou",
@@ -1300,7 +1484,10 @@
   "club_country": "FRA",
   "club_org": 58258,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/landerneau-bretagne-basket/424713-emma-cariou"
+  }
  },
  {
   "id": "hawa-komara",
@@ -1321,7 +1508,10 @@
   "club_country": "FRA",
   "club_org": 58258,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/landerneau-bretagne-basket/271134-hawa-komara"
+  }
  },
  {
   "id": "janice-albert",
@@ -1342,7 +1532,10 @@
   "club_country": "FRA",
   "club_org": 58258,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/landerneau-bretagne-basket/420987-janice-albert"
+  }
  },
  {
   "id": "lea-cortana",
@@ -1363,7 +1556,10 @@
   "club_country": "FRA",
   "club_org": 58258,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/landerneau-bretagne-basket/424719-lea-cortana"
+  }
  },
  {
   "id": "manaelle-yerbe",
@@ -1384,7 +1580,10 @@
   "club_country": "FRA",
   "club_org": 58258,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/landerneau-bretagne-basket/424727-manaelle-yerbe"
+  }
  },
  {
   "id": "mathilde-selle",
@@ -1405,7 +1604,10 @@
   "club_country": "FRA",
   "club_org": 58258,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/landerneau-bretagne-basket/320375-mathilde-selle"
+  }
  },
  {
   "id": "naelle-boudhil",
@@ -1426,7 +1628,10 @@
   "club_country": "FRA",
   "club_org": 58258,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/landerneau-bretagne-basket/424729-naelle-boudhil"
+  }
  },
  {
   "id": "sara-roumy",
@@ -1447,7 +1652,10 @@
   "club_country": "ESP",
   "club_org": 8008,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/meins-avenida/255153-sara-roumy"
+  }
  },
  {
   "id": "yohana-ewodo",
@@ -1468,7 +1676,10 @@
   "club_country": "GRE",
   "club_org": 65519,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/olympiacos-sfp/226148-yohana-ewodo"
+  }
  },
  {
   "id": "elle-ladine",
@@ -1489,7 +1700,10 @@
   "club_country": "POL",
   "club_org": 8365,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/pro-network-enea-ajp-gorzow/423035-elle-ladine"
+  }
  },
  {
   "id": "eleonore-villiot",
@@ -1510,7 +1724,10 @@
   "club_country": "SUI",
   "club_org": 58714,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/ravens-de-geneve/419894-eleonore-villiot"
+  }
  },
  {
   "id": "marah-mougnutou",
@@ -1531,7 +1748,10 @@
   "club_country": "SUI",
   "club_org": 58714,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/ravens-de-geneve/276596-marah-mougnutou"
+  }
  },
  {
   "id": "melyssa-dutruel",
@@ -1552,7 +1772,10 @@
   "club_country": "SUI",
   "club_org": 58714,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/ravens-de-geneve/238784-melyssa-dutruel"
+  }
  },
  {
   "id": "marina-ewodo",
@@ -1573,7 +1796,10 @@
   "club_country": "CZE",
   "club_org": 58104,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/sbs-ostrava/211037-marina-ewodo"
+  }
  },
  {
   "id": "axelle-merceron",
@@ -1594,7 +1820,11 @@
   "club_country": "ESP",
   "club_org": 65758,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/spar-girona/297847-axelle-merceron",
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/spar-girona/297847-axelle-merceron"
+  }
  },
  {
   "id": "alix-duchet",
@@ -1615,7 +1845,10 @@
   "club_country": "FRA",
   "club_org": 928,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/196688-alix-duchet"
+  }
  },
  {
   "id": "anna-mane",
@@ -1636,7 +1869,10 @@
   "club_country": "FRA",
   "club_org": 928,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/368465-anna-mane"
+  }
  },
  {
   "id": "clarince-djaldi-tabdi",
@@ -1657,7 +1893,10 @@
   "club_country": "FRA",
   "club_org": 928,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/183630-clarince-djaldi-tabdi"
+  }
  },
  {
   "id": "elodie-naigre",
@@ -1678,7 +1917,10 @@
   "club_country": "FRA",
   "club_org": 928,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/199243-elodie-naigre"
+  }
  },
  {
   "id": "ines-pitarch-granel",
@@ -1699,7 +1941,10 @@
   "club_country": "FRA",
   "club_org": 928,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/297569-ines-pitarch-granel"
+  }
  },
  {
   "id": "maeva-djaldi-tabdi",
@@ -1720,7 +1965,10 @@
   "club_country": "FRA",
   "club_org": 928,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/209538-maeva-djaldi-tabdi"
+  }
  },
  {
   "id": "maewenn-poilve",
@@ -1741,7 +1989,10 @@
   "club_country": "FRA",
   "club_org": 928,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/345033-maewenn-poilve"
+  }
  },
  {
   "id": "marie-paule-foppossi",
@@ -1762,7 +2013,10 @@
   "club_country": "FRA",
   "club_org": 928,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/204412-marie-paule-foppossi"
+  }
  },
  {
   "id": "rokia-bamba",
@@ -1783,7 +2037,10 @@
   "club_country": "FRA",
   "club_org": 928,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/369188-rokia-bamba"
+  }
  },
  {
   "id": "alexia-chery",
@@ -1805,7 +2062,11 @@
   "club_country": "ITA",
   "club_org": 65571,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/umana-reyer-venice/204402-alexia-chery",
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/umana-reyer-venezia/204402-alexia-chery"
+  }
  },
  {
   "id": "anna-ngo-ndjock",
@@ -1826,7 +2087,10 @@
   "club_country": "FRA",
   "club_org": 4106,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/villeneuve-dascq-lm/237450-anna-ngo-ndjock"
+  }
  },
  {
   "id": "awa-trasi",
@@ -1847,7 +2111,10 @@
   "club_country": "FRA",
   "club_org": 4106,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/villeneuve-dascq-lm/219449-awa-trasi"
+  }
  },
  {
   "id": "bria-hartley",
@@ -1868,7 +2135,10 @@
   "club_country": "FRA",
   "club_org": 4106,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/villeneuve-dascq-lm/181916-bria-hartley"
+  }
  },
  {
   "id": "eva-bach",
@@ -1889,7 +2159,10 @@
   "club_country": "FRA",
   "club_org": 4106,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/villeneuve-dascq-lm/425042-eva-bach"
+  }
  },
  {
   "id": "maelie-butez",
@@ -1910,7 +2183,10 @@
   "club_country": "FRA",
   "club_org": 4106,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/villeneuve-dascq-lm/425044-maelie-butez"
+  }
  },
  {
   "id": "manoe-cisse",
@@ -1931,7 +2207,10 @@
   "club_country": "FRA",
   "club_org": 4106,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/villeneuve-dascq-lm/272784-manoe-cisse"
+  }
  },
  {
   "id": "marie-michelle-milapie",
@@ -1952,7 +2231,10 @@
   "club_country": "FRA",
   "club_org": 4106,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/villeneuve-dascq-lm/191624-marie-michelle-milapie"
+  }
  },
  {
   "id": "naema-kouadio",
@@ -1973,7 +2255,10 @@
   "club_country": "FRA",
   "club_org": 4106,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/villeneuve-dascq-lm/376021-naema-kouadio"
+  }
  },
  {
   "id": "stella-colas",
@@ -1994,7 +2279,10 @@
   "club_country": "FRA",
   "club_org": 4106,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/villeneuve-dascq-lm/320366-stella-colas"
+  }
  },
  {
   "id": "migna-toure",
@@ -2015,7 +2303,10 @@
   "club_country": "CZE",
   "club_org": 65512,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/zvvz-usk-praha/175762-migna-toure"
+  }
  },
  {
   "id": "pauline-astier",
@@ -2036,6 +2327,9 @@
   "club_country": "CZE",
   "club_org": 65512,
   "active": true,
-  "note": ""
+  "note": "",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/zvvz-usk-praha/254398-pauline-astier"
+  }
  }
 ]
