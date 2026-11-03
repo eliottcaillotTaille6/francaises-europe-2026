@@ -67,6 +67,7 @@ function clipLink(g, l) {
     name: state.byId.get(l.player_id)?.name ?? '',
     number: l.jersey ?? '',
     team: l.side === 'home' ? '1' : '2', // page FIBA : équipe 1 = à domicile (première du lien)
+    zones: 'fiba', // habillage TV identique sur tous les matchs : zones posées et analyse lancée par l'outil
     t: Date.now().toString(36), // adresse unique : Chrome ne ressert jamais une ancienne page de l'outil
   });
   return full

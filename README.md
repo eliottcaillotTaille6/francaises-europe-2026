@@ -99,7 +99,9 @@ Ouvrir une fois le site avec `?admin` à la fin de l'adresse : le mode éditeur 
   seul dès que les nouvelles données sont publiées.
 - **Clipper** sur chaque ligne d'une joueuse qui a joué : ouvre l'outil de clipping du Mac (`http://127.0.0.1:8765/`,
   `config/site.json` → `clipping.url`) avec la vidéo (match complet, sinon résumé : « Clipper (résumé) »), la page
-  FIBA du match comme play-by-play, le nom, le numéro et l'équipe (1 = à domicile). Vérifié au lancement : l'outil
+  FIBA du match comme play-by-play, le nom, le numéro et l'équipe (1 = à domicile), et `zones=fiba` : l'habillage TV
+  étant le même sur tous les matchs des deux compétitions, l'outil pose lui-même les zones du quart-temps et du
+  chrono, puis lance l'analyse. Il reste la vérification des clips et l'export. Vérifié au lancement : l'outil
   retrouve les 251 lignes de Françaises, avec autant de paniers que de tirs réussis dans le box score.
   Le pré-téléchargement de ces vidéos chaque matin est géré par l'outil de clipping (`prefetch_ncaa.py`, qui lit les
   deux sites).
