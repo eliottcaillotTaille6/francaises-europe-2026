@@ -114,8 +114,11 @@ Ouvrir une fois le site avec `?admin` à la fin de l'adresse : le mode éditeur 
 ## Déploiement
 
 Dépôt GitHub `eliottcaillotTaille6/francaises-europe-2026`, GitHub Pages en mode « GitHub Actions ».
-L'Action `.github/workflows/update.yml` tourne les mardis, mercredis et jeudis à 22 h 15 (heure de Paris : deux
-horaires UTC sont programmés pour suivre l'heure d'été, un seul s'exécute), commite `data/` puis redéploie. Elle redéploie aussi le
+L'Action `.github/workflows/update.yml` est lancée les mardis, mercredis et jeudis à 22 h 15 (heure de Paris) par le
+Mac de l'éditeur (agent `com.clipspaniers.prefetch-europe` de l'outil de clipping, qui enchaîne ensuite le
+pré-téléchargement) : les horaires programmés sur GitHub partent souvent avec des heures de retard. Ces horaires
+GitHub (deux horaires UTC pour suivre l'heure d'été, un seul s'exécute) restent en secours si le Mac est éteint.
+L'Action commite `data/` puis redéploie. Elle redéploie aussi le
 site à chaque push sur `public/`, `config/` ou `data/players.json`.
 
 ## Points d'attention
