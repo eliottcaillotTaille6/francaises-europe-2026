@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:30:31.742Z",
+ "updated": "2026-11-04T22:05:07.516Z",
  "season": "2026-27",
  "games": [
   {
@@ -11739,6 +11739,1905 @@
     "title": "Regular Season | BAXI Ferrol v Olympiacos SFP | Full Basketball Game | EuroCup Women 2026-27",
     "channel": "@FIBA",
     "duration_s": 6606,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135364",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "K",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T16:15:00Z",
+   "venue": "City Campus, Ostrava",
+   "home": {
+    "name": "SBS Ostrava",
+    "short": "SBS Ostrava",
+    "code": "OVA",
+    "score": 58
+   },
+   "away": {
+    "name": "Spar Girona",
+    "short": "Spar Girona",
+    "code": "GIR",
+    "score": 86
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135364-OVA-GIR",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135364-OVA-GIR#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135364-OVA-GIR#playByPlay"
+   },
+   "lines": {
+    "marina-ewodo": {
+     "player_id": "marina-ewodo",
+     "team": "SBS Ostrava",
+     "side": "home",
+     "jersey": "14",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 19,
+      "fgm": 8,
+      "fga": 18,
+      "tpm": 1,
+      "tpa": 6,
+      "ftm": 2,
+      "fta": 2,
+      "oreb": 5,
+      "dreb": 6,
+      "reb": 11,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "to": 2,
+      "pf": 2,
+      "min": 30.1,
+      "sec": 1808
+     },
+     "source": "fiba"
+    },
+    "axelle-merceron": {
+     "player_id": "axelle-merceron",
+     "team": "Spar Girona",
+     "side": "away",
+     "jersey": "44",
+     "status": "dnp",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=-2tnG_Sy77s",
+    "title": "Regular Season | SBS Ostrava v Spar Girona | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 6756,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135402",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "A",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T16:30:00Z",
+   "venue": "Urheahalli, Helsinki",
+   "home": {
+    "name": "Helsinki Basketball Academy",
+    "short": "HBA Helsinki",
+    "code": "HBA",
+    "score": 55
+   },
+   "away": {
+    "name": "Charnay Basket Bourgogne SUD",
+    "short": "Charnay Basket",
+    "code": "CBBS",
+    "score": 92
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135402-HBA-CBBS",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135402-HBA-CBBS#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135402-HBA-CBBS#playByPlay"
+   },
+   "lines": {
+    "claire-dalstra": {
+     "player_id": "claire-dalstra",
+     "team": "Charnay Basket",
+     "side": "away",
+     "jersey": "15",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 3,
+      "fgm": 1,
+      "fga": 4,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 1,
+      "fta": 2,
+      "oreb": 3,
+      "dreb": 4,
+      "reb": 7,
+      "ast": 0,
+      "stl": 1,
+      "blk": 1,
+      "to": 2,
+      "pf": 2,
+      "min": 21.1,
+      "sec": 1266
+     },
+     "source": "fiba"
+    },
+    "maye-toure": {
+     "player_id": "maye-toure",
+     "team": "Charnay Basket",
+     "side": "away",
+     "jersey": "21",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 5,
+      "fgm": 2,
+      "fga": 6,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 1,
+      "fta": 2,
+      "oreb": 1,
+      "dreb": 5,
+      "reb": 6,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "to": 2,
+      "pf": 2,
+      "min": 18.7,
+      "sec": 1120
+     },
+     "source": "fiba"
+    },
+    "louise-bussiere": {
+     "player_id": "louise-bussiere",
+     "team": "Charnay Basket",
+     "side": "away",
+     "jersey": "28",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 8,
+      "fgm": 4,
+      "fga": 7,
+      "tpm": 0,
+      "tpa": 2,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 3,
+      "reb": 3,
+      "ast": 2,
+      "stl": 3,
+      "blk": 0,
+      "to": 2,
+      "pf": 0,
+      "min": 19.6,
+      "sec": 1175
+     },
+     "source": "fiba"
+    },
+    "margaux-raimbault": {
+     "player_id": "margaux-raimbault",
+     "team": "Charnay Basket",
+     "side": "away",
+     "jersey": "30",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 6,
+      "fgm": 3,
+      "fga": 6,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 0,
+      "reb": 0,
+      "ast": 2,
+      "stl": 3,
+      "blk": 2,
+      "to": 3,
+      "pf": 2,
+      "min": 20,
+      "sec": 1200
+     },
+     "source": "fiba"
+    },
+    "binta-drame": {
+     "player_id": "binta-drame",
+     "team": "Charnay Basket",
+     "side": "away",
+     "jersey": "32",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 7,
+      "fgm": 3,
+      "fga": 7,
+      "tpm": 1,
+      "tpa": 3,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 1,
+      "dreb": 0,
+      "reb": 1,
+      "ast": 4,
+      "stl": 2,
+      "blk": 0,
+      "to": 5,
+      "pf": 2,
+      "min": 19.7,
+      "sec": 1182
+     },
+     "source": "fiba"
+    },
+    "camille-sevaux": {
+     "player_id": "camille-sevaux",
+     "team": "Charnay Basket",
+     "side": "away",
+     "jersey": "70",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 10,
+      "fgm": 4,
+      "fga": 8,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 2,
+      "fta": 2,
+      "oreb": 2,
+      "dreb": 7,
+      "reb": 9,
+      "ast": 0,
+      "stl": 3,
+      "blk": 0,
+      "to": 2,
+      "pf": 1,
+      "min": 23.3,
+      "sec": 1398
+     },
+     "source": "fiba"
+    },
+    "lola-dely": {
+     "player_id": "lola-dely",
+     "team": "Charnay Basket",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=YSAMitWTQZY",
+    "title": "Regular Season | HBA Helsinki v Charnay Basket | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7045,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135270",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "B",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T17:00:00Z",
+   "venue": "CEZ Sportovni Hala Nymburk, Nymburk",
+   "home": {
+    "name": "DSK Basketball",
+    "short": "DSK Basketball Brandys",
+    "code": "DSK",
+    "score": 53
+   },
+   "away": {
+    "name": "Villeneuve d'Ascq Lille Metropole",
+    "short": "Villeneuve d'Ascq LM",
+    "code": "ESBVA",
+    "score": 85
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135270-DSK-ESBVA",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135270-DSK-ESBVA#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135270-DSK-ESBVA#playByPlay"
+   },
+   "lines": {
+    "anna-ngo-ndjock": {
+     "player_id": "anna-ngo-ndjock",
+     "team": "Villeneuve d'Ascq LM",
+     "side": "away",
+     "jersey": "0",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 13,
+      "fgm": 5,
+      "fga": 10,
+      "tpm": 1,
+      "tpa": 2,
+      "ftm": 2,
+      "fta": 2,
+      "oreb": 0,
+      "dreb": 1,
+      "reb": 1,
+      "ast": 3,
+      "stl": 4,
+      "blk": 0,
+      "to": 6,
+      "pf": 3,
+      "min": 26.4,
+      "sec": 1583
+     },
+     "source": "fiba"
+    },
+    "stella-colas": {
+     "player_id": "stella-colas",
+     "team": "Villeneuve d'Ascq LM",
+     "side": "away",
+     "jersey": "3",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 8,
+      "fgm": 4,
+      "fga": 10,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 1,
+      "dreb": 3,
+      "reb": 4,
+      "ast": 6,
+      "stl": 4,
+      "blk": 0,
+      "to": 3,
+      "pf": 2,
+      "min": 25,
+      "sec": 1500
+     },
+     "source": "fiba"
+    },
+    "naema-kouadio": {
+     "player_id": "naema-kouadio",
+     "team": "Villeneuve d'Ascq LM",
+     "side": "away",
+     "jersey": "5",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 1,
+      "fgm": 0,
+      "fga": 2,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 1,
+      "fta": 2,
+      "oreb": 1,
+      "dreb": 1,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "to": 1,
+      "pf": 1,
+      "min": 15.7,
+      "sec": 940
+     },
+     "source": "fiba"
+    },
+    "marie-michelle-milapie": {
+     "player_id": "marie-michelle-milapie",
+     "team": "Villeneuve d'Ascq LM",
+     "side": "away",
+     "jersey": "13",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 3,
+      "fgm": 1,
+      "fga": 2,
+      "tpm": 1,
+      "tpa": 2,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 2,
+      "dreb": 2,
+      "reb": 4,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "to": 1,
+      "pf": 5,
+      "min": 19.3,
+      "sec": 1156
+     },
+     "source": "fiba"
+    },
+    "bria-hartley": {
+     "player_id": "bria-hartley",
+     "team": "Villeneuve d'Ascq LM",
+     "side": "away",
+     "jersey": "14",
+     "status": "dnp",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "manoe-cisse": {
+     "player_id": "manoe-cisse",
+     "team": "Villeneuve d'Ascq LM",
+     "side": "away",
+     "jersey": "20",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 14,
+      "fgm": 5,
+      "fga": 7,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 4,
+      "fta": 4,
+      "oreb": 2,
+      "dreb": 2,
+      "reb": 4,
+      "ast": 3,
+      "stl": 3,
+      "blk": 0,
+      "to": 2,
+      "pf": 1,
+      "min": 23.1,
+      "sec": 1387
+     },
+     "source": "fiba"
+    },
+    "awa-trasi": {
+     "player_id": "awa-trasi",
+     "team": "Villeneuve d'Ascq LM",
+     "side": "away",
+     "jersey": "32",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 14,
+      "fgm": 5,
+      "fga": 10,
+      "tpm": 2,
+      "tpa": 3,
+      "ftm": 2,
+      "fta": 5,
+      "oreb": 3,
+      "dreb": 2,
+      "reb": 5,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "to": 0,
+      "pf": 3,
+      "min": 27.7,
+      "sec": 1661
+     },
+     "source": "fiba"
+    },
+    "eva-bach": {
+     "player_id": "eva-bach",
+     "team": "Villeneuve d'Ascq LM",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "maelie-butez": {
+     "player_id": "maelie-butez",
+     "team": "Villeneuve d'Ascq LM",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=isEm4Gs00SY",
+    "title": "DSK Basketball Brandys v Villeneuve d'Ascq LM | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7091,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135315",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "F",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T17:00:00Z",
+   "venue": "Horia Demian Sports Hall, Cluj-Napoca",
+   "home": {
+    "name": "CS Universitatea Cluj",
+    "short": "Universitatea Cluj",
+    "code": "UCJ",
+    "score": 43
+   },
+   "away": {
+    "name": "Umana Reyer Venezia",
+    "short": "Umana Reyer Venezia",
+    "code": "REYER",
+    "score": 96
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135315-UCJ-REYER",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135315-UCJ-REYER#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135315-UCJ-REYER#playByPlay"
+   },
+   "lines": {
+    "alexia-chery": {
+     "player_id": "alexia-chery",
+     "team": "Umana Reyer Venezia",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=6Cn5uk6eOco",
+    "title": "Universitatea Cluj v Umana Reyer Venezia | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 6831,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135373",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "L",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T17:00:00Z",
+   "venue": "Sportova Hala Koniaren, Ruzomberok",
+   "home": {
+    "name": "MBK Ruzomberok",
+    "short": "MBK Ruzomberok",
+    "code": "MBKRK",
+    "score": 49
+   },
+   "away": {
+    "name": "Club Baloncesto Avenida",
+    "short": "MEINS Avenida",
+    "code": "MEINS",
+    "score": 78
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135373-MBKRK-MEINS",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135373-MBKRK-MEINS#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135373-MBKRK-MEINS#playByPlay"
+   },
+   "lines": {
+    "sara-roumy": {
+     "player_id": "sara-roumy",
+     "team": "MEINS Avenida",
+     "side": "away",
+     "jersey": "9",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 15,
+      "fgm": 6,
+      "fga": 10,
+      "tpm": 2,
+      "tpa": 6,
+      "ftm": 1,
+      "fta": 1,
+      "oreb": 2,
+      "dreb": 1,
+      "reb": 3,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "to": 3,
+      "pf": 1,
+      "min": 23.9,
+      "sec": 1435
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=9iGXMu_gwXE",
+    "title": "Regular Season | MBK Ruzomberok v MEINS Avenida | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7270,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135398",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "A",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T17:30:00Z",
+   "venue": "Spyros Kyprianou Arena, Limassol",
+   "home": {
+    "name": "AEL Limassol",
+    "short": "AEL Limassol WBC",
+    "code": "AEL",
+    "score": 37
+   },
+   "away": {
+    "name": "Zabiny Brno",
+    "short": "Zabiny Brno",
+    "code": "ZAB",
+    "score": 95
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135398-AEL-ZAB",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135398-AEL-ZAB#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135398-AEL-ZAB#playByPlay"
+   },
+   "lines": {
+    "sarah-ousfar": {
+     "player_id": "sarah-ousfar",
+     "team": "AEL Limassol WBC",
+     "side": "home",
+     "jersey": "8",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 6,
+      "fgm": 3,
+      "fga": 8,
+      "tpm": 0,
+      "tpa": 2,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 2,
+      "dreb": 2,
+      "reb": 4,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "to": 3,
+      "pf": 2,
+      "min": 17.7,
+      "sec": 1059
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=YY0mrMCPHG8",
+    "title": "Regular Season | AEL Limassol WBC v Zabiny Brno | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 6625,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135359",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "K",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T17:30:00Z",
+   "venue": "Arena Botevgrad, Botevgrad",
+   "home": {
+    "name": "BC Montana 2003",
+    "short": "BC Montana 2003",
+    "code": "MONT",
+    "score": 73
+   },
+   "away": {
+    "name": "Rutronik Stars Keltern",
+    "short": "Rutronik Stars Keltern",
+    "code": "RSK",
+    "score": 66
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135359-MONT-RSK",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135359-MONT-RSK#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135359-MONT-RSK#playByPlay"
+   },
+   "lines": {
+    "india-farcy": {
+     "player_id": "india-farcy",
+     "team": "BC Montana 2003",
+     "side": "home",
+     "jersey": "4",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 11,
+      "fgm": 4,
+      "fga": 10,
+      "tpm": 2,
+      "tpa": 4,
+      "ftm": 1,
+      "fta": 1,
+      "oreb": 1,
+      "dreb": 4,
+      "reb": 5,
+      "ast": 5,
+      "stl": 2,
+      "blk": 0,
+      "to": 5,
+      "pf": 2,
+      "min": 35.7,
+      "sec": 2141
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=3hENZOtb3MQ",
+    "title": "BC Montana 2003 v Rutronik Stars Keltern | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 6965,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135335",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "H",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T18:00:00Z",
+   "venue": "Nova Arena Cittadella dello Sport, Tortona",
+   "home": {
+    "name": "Autosped BCC Castelnuovo Scrivia",
+    "short": "Autosped BCC Castelnuovo Scrivia",
+    "code": "BCC",
+    "score": 82
+   },
+   "away": {
+    "name": "BCF Elfic Fribourg",
+    "short": "BCF Elfic Fribourg",
+    "code": "ELFIC",
+    "score": 61
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135335-BCC-ELFIC",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135335-BCC-ELFIC#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135335-BCC-ELFIC#playByPlay"
+   },
+   "lines": {
+    "mila-benjak": {
+     "player_id": "mila-benjak",
+     "team": "BCF Elfic Fribourg",
+     "side": "away",
+     "jersey": "14",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 0,
+      "fgm": 0,
+      "fga": 0,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 1,
+      "dreb": 1,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 2,
+      "to": 0,
+      "pf": 1,
+      "min": 5.3,
+      "sec": 315
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=YA-pgUtm7bM",
+    "title": "Autosped BCC Castelnuovo Scrivia v BCF Elfic Fribourg | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7075,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135378",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "L",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T18:00:00Z",
+   "venue": "Le Colisée, Chartres",
+   "home": {
+    "name": "C'Chartres Metropole Basket Feminin",
+    "short": "C'Chartres Metropole Basket Feminin",
+    "code": "CCMBF",
+    "score": 83
+   },
+   "away": {
+    "name": "Basket Namur Capitale",
+    "short": "Basket Namur Capitale",
+    "code": "BNC",
+    "score": 72
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135378-CCMBF-BNC",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135378-CCMBF-BNC#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135378-CCMBF-BNC#playByPlay"
+   },
+   "lines": {
+    "yvanna-enjolvy": {
+     "player_id": "yvanna-enjolvy",
+     "team": "C'Chartres Metropole Basket Feminin",
+     "side": "home",
+     "jersey": "2",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 8,
+      "fgm": 4,
+      "fga": 10,
+      "tpm": 0,
+      "tpa": 4,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 2,
+      "reb": 2,
+      "ast": 5,
+      "stl": 1,
+      "blk": 0,
+      "to": 1,
+      "pf": 3,
+      "min": 23.2,
+      "sec": 1391
+     },
+     "source": "fiba"
+    },
+    "clarisse-legrand": {
+     "player_id": "clarisse-legrand",
+     "team": "C'Chartres Metropole Basket Feminin",
+     "side": "home",
+     "jersey": "7",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 6,
+      "fgm": 2,
+      "fga": 4,
+      "tpm": 0,
+      "tpa": 2,
+      "ftm": 2,
+      "fta": 4,
+      "oreb": 0,
+      "dreb": 1,
+      "reb": 1,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "to": 2,
+      "pf": 2,
+      "min": 24.1,
+      "sec": 1448
+     },
+     "source": "fiba"
+    },
+    "blanche-mavambou": {
+     "player_id": "blanche-mavambou",
+     "team": "C'Chartres Metropole Basket Feminin",
+     "side": "home",
+     "jersey": "8",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 9,
+      "fgm": 4,
+      "fga": 6,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 1,
+      "fta": 1,
+      "oreb": 2,
+      "dreb": 1,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "to": 1,
+      "pf": 2,
+      "min": 15.5,
+      "sec": 927
+     },
+     "source": "fiba"
+    },
+    "ana-maria-filip": {
+     "player_id": "ana-maria-filip",
+     "team": "C'Chartres Metropole Basket Feminin",
+     "side": "home",
+     "jersey": "9",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 3,
+      "fgm": 1,
+      "fga": 6,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 1,
+      "fta": 2,
+      "oreb": 0,
+      "dreb": 3,
+      "reb": 3,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "to": 0,
+      "pf": 4,
+      "min": 16.1,
+      "sec": 968
+     },
+     "source": "fiba"
+    },
+    "elise-marie": {
+     "player_id": "elise-marie",
+     "team": "C'Chartres Metropole Basket Feminin",
+     "side": "home",
+     "jersey": "21",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 2,
+      "fgm": 1,
+      "fga": 4,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 1,
+      "reb": 1,
+      "ast": 2,
+      "stl": 2,
+      "blk": 0,
+      "to": 1,
+      "pf": 3,
+      "min": 18.1,
+      "sec": 1086
+     },
+     "source": "fiba"
+    },
+    "coralie-chabrier": {
+     "player_id": "coralie-chabrier",
+     "team": "C'Chartres Metropole Basket Feminin",
+     "side": "home",
+     "jersey": "25",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 7,
+      "fgm": 1,
+      "fga": 2,
+      "tpm": 1,
+      "tpa": 2,
+      "ftm": 4,
+      "fta": 5,
+      "oreb": 0,
+      "dreb": 2,
+      "reb": 2,
+      "ast": 5,
+      "stl": 1,
+      "blk": 0,
+      "to": 0,
+      "pf": 1,
+      "min": 19.3,
+      "sec": 1158
+     },
+     "source": "fiba"
+    },
+    "assitan-kone": {
+     "player_id": "assitan-kone",
+     "team": "C'Chartres Metropole Basket Feminin",
+     "side": "home",
+     "jersey": "26",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 12,
+      "fgm": 5,
+      "fga": 10,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 2,
+      "fta": 2,
+      "oreb": 4,
+      "dreb": 1,
+      "reb": 5,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "to": 3,
+      "pf": 3,
+      "min": 23.9,
+      "sec": 1432
+     },
+     "source": "fiba"
+    },
+    "celine-hortense-gomis": {
+     "player_id": "celine-hortense-gomis",
+     "team": "C'Chartres Metropole Basket Feminin",
+     "side": "home",
+     "jersey": "28",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 0,
+      "fgm": 0,
+      "fga": 0,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "to": 1,
+      "pf": 0,
+      "min": 6.5,
+      "sec": 392
+     },
+     "source": "fiba"
+    },
+    "racky-camara": {
+     "player_id": "racky-camara",
+     "team": "C'Chartres Metropole Basket Feminin",
+     "side": "home",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "joana-konate": {
+     "player_id": "joana-konate",
+     "team": "C'Chartres Metropole Basket Feminin",
+     "side": "home",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "maeva-febrissy": {
+     "player_id": "maeva-febrissy",
+     "team": "Basket Namur Capitale",
+     "side": "away",
+     "jersey": "26",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 0,
+      "fgm": 0,
+      "fga": 4,
+      "tpm": 0,
+      "tpa": 2,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "to": 1,
+      "pf": 1,
+      "min": 10.6,
+      "sec": 638
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=TjZMuuBxqX0",
+    "title": "C'Chartres Metropole Basket v Basket Namur Capitale | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7321,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135277",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "C",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T18:30:00Z",
+   "venue": "Sporthalle Charlottenburg, Berlin",
+   "home": {
+    "name": "ALBA Berlin Basketballteam e.V.",
+    "short": "ALBA Berlin",
+    "code": "ALBA",
+    "score": 58
+   },
+   "away": {
+    "name": "Panathinaikos A.C.",
+    "short": "Panathinaikos A.C.",
+    "code": "PAO",
+    "score": 79
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135277-ALBA-PAO",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135277-ALBA-PAO#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135277-ALBA-PAO#playByPlay"
+   },
+   "lines": {
+    "oceanie-monpierre": {
+     "player_id": "oceanie-monpierre",
+     "team": "ALBA Berlin",
+     "side": "home",
+     "jersey": "31",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 4,
+      "fgm": 2,
+      "fga": 7,
+      "tpm": 0,
+      "tpa": 4,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 2,
+      "dreb": 2,
+      "reb": 4,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "to": 4,
+      "pf": 3,
+      "min": 23.2,
+      "sec": 1389
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=fHCML6ZuwBY",
+    "title": "Regular Season | ALBA Berlin v Panathinaikos A.C. | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7506,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135305",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "E",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T18:30:00Z",
+   "venue": "EPTAPYRGIO ARENA, Thessaloniki",
+   "home": {
+    "name": "Panathlitikos A.C. Sykeon",
+    "short": "Panathlitikos Sykeon",
+    "code": "PANAS",
+    "score": 74
+   },
+   "away": {
+    "name": "DVTK HUNTHERM",
+    "short": "DVTK HUNTHERM",
+    "code": "DVTK",
+    "score": 77
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135305-PANAS-DVTK",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135305-PANAS-DVTK#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135305-PANAS-DVTK#playByPlay"
+   },
+   "lines": {
+    "diana-balayera": {
+     "player_id": "diana-balayera",
+     "team": "DVTK HUNTHERM",
+     "side": "away",
+     "jersey": "77",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 12,
+      "fgm": 6,
+      "fga": 12,
+      "tpm": 0,
+      "tpa": 3,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 6,
+      "dreb": 3,
+      "reb": 9,
+      "ast": 0,
+      "stl": 4,
+      "blk": 1,
+      "to": 3,
+      "pf": 2,
+      "min": 23.4,
+      "sec": 1401
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=wrtKoenxtWA",
+    "title": "Regular Season | Panathlitikos Sykeon v DVTK HUNTHERM | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7494,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135340",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "H",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T18:30:00Z",
+   "venue": "La Cimenterie, Landerneau",
+   "home": {
+    "name": "Landerneau Bretagne Basket",
+    "short": "Landerneau Bretagne Basket",
+    "code": "LBB",
+    "score": 71
+   },
+   "away": {
+    "name": "ENEA AZS Politechnika Poznan",
+    "short": "ENEA AZS Politechnika Poznan",
+    "code": "ENEA",
+    "score": 76
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135340-LBB-ENEA",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135340-LBB-ENEA#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135340-LBB-ENEA#playByPlay"
+   },
+   "lines": {
+    "lea-cortana": {
+     "player_id": "lea-cortana",
+     "team": "Landerneau Bretagne Basket",
+     "side": "home",
+     "jersey": "3",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 0,
+      "fgm": 0,
+      "fga": 1,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "to": 0,
+      "pf": 1,
+      "min": 3.2,
+      "sec": 189
+     },
+     "source": "fiba"
+    },
+    "emma-cariou": {
+     "player_id": "emma-cariou",
+     "team": "Landerneau Bretagne Basket",
+     "side": "home",
+     "jersey": "4",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 0,
+      "fgm": 0,
+      "fga": 0,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "to": 0,
+      "pf": 2,
+      "min": 1.8,
+      "sec": 107
+     },
+     "source": "fiba"
+    },
+    "caroline-heriaud": {
+     "player_id": "caroline-heriaud",
+     "team": "Landerneau Bretagne Basket",
+     "side": "home",
+     "jersey": "6",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 12,
+      "fgm": 2,
+      "fga": 11,
+      "tpm": 2,
+      "tpa": 8,
+      "ftm": 6,
+      "fta": 6,
+      "oreb": 1,
+      "dreb": 2,
+      "reb": 3,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "to": 3,
+      "pf": 3,
+      "min": 36,
+      "sec": 2162
+     },
+     "source": "fiba"
+    },
+    "manaelle-yerbe": {
+     "player_id": "manaelle-yerbe",
+     "team": "Landerneau Bretagne Basket",
+     "side": "home",
+     "jersey": "18",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 6,
+      "fgm": 2,
+      "fga": 7,
+      "tpm": 1,
+      "tpa": 4,
+      "ftm": 1,
+      "fta": 2,
+      "oreb": 2,
+      "dreb": 1,
+      "reb": 3,
+      "ast": 1,
+      "stl": 3,
+      "blk": 0,
+      "to": 2,
+      "pf": 3,
+      "min": 40,
+      "sec": 2400
+     },
+     "source": "fiba"
+    },
+    "hawa-komara": {
+     "player_id": "hawa-komara",
+     "team": "Landerneau Bretagne Basket",
+     "side": "home",
+     "jersey": "22",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 2,
+      "fgm": 1,
+      "fga": 1,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 2,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "to": 0,
+      "pf": 2,
+      "min": 10.2,
+      "sec": 610
+     },
+     "source": "fiba"
+    },
+    "mathilde-selle": {
+     "player_id": "mathilde-selle",
+     "team": "Landerneau Bretagne Basket",
+     "side": "home",
+     "jersey": "24",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 0,
+      "fgm": 0,
+      "fga": 0,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "to": 0,
+      "pf": 3,
+      "min": 1.6,
+      "sec": 93
+     },
+     "source": "fiba"
+    },
+    "naelle-boudhil": {
+     "player_id": "naelle-boudhil",
+     "team": "Landerneau Bretagne Basket",
+     "side": "home",
+     "jersey": "26",
+     "status": "dnp",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "janice-albert": {
+     "player_id": "janice-albert",
+     "team": "Landerneau Bretagne Basket",
+     "side": "home",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04"
+  },
+  {
+   "id": "ELW-135169",
+   "final": true,
+   "competition": "ELW",
+   "round": "Regular Season - First Round",
+   "group": "B",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T19:00:00Z",
+   "venue": "Palaromare, Schio",
+   "home": {
+    "name": "Beretta Famila Schio",
+    "short": "Beretta Famila Schio",
+    "code": "SCH",
+    "score": 51
+   },
+   "away": {
+    "name": "Galatasaray Spor Kulübü",
+    "short": "Galatasaray Cagdas Faktoring",
+    "code": "GALA",
+    "score": 68
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135169-SCH-GALA",
+    "boxscore": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135169-SCH-GALA#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135169-SCH-GALA#playByPlay"
+   },
+   "lines": {
+    "marine-fauthoux": {
+     "player_id": "marine-fauthoux",
+     "team": "Galatasaray Cagdas Faktoring",
+     "side": "away",
+     "jersey": "4",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 5,
+      "fgm": 1,
+      "fga": 6,
+      "tpm": 0,
+      "tpa": 3,
+      "ftm": 3,
+      "fta": 4,
+      "oreb": 1,
+      "dreb": 1,
+      "reb": 2,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "to": 0,
+      "pf": 1,
+      "min": 24.1,
+      "sec": 1448
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=uYsRz3mybOI",
+    "title": "Beretta Famila Schio v Galatasaray Cagdas Faktoring | Full Basketball Game |EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 7190,
+    "kind": "full"
+   },
+   "highlights": {
+    "url": "https://www.youtube.com/watch?v=b6QqVoma7ds",
+    "title": "Beretta Famila Schio v Galatasaray Cagdas Faktoring | Full Highlights | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 660
+   }
+  },
+  {
+   "id": "ECW-135299",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "E",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T19:00:00Z",
+   "venue": "Sports Hall Vijus, Slavonski Brod",
+   "home": {
+    "name": "ZKK Brod Na Savi",
+    "short": "ZKK Brod Na Savi",
+    "code": "BNS",
+    "score": 54
+   },
+   "away": {
+    "name": "Hozono Global Jairis",
+    "short": "Hozono Global Jairis",
+    "code": "HGJ",
+    "score": 109
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135299-BNS-HGJ",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135299-BNS-HGJ#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135299-BNS-HGJ#playByPlay"
+   },
+   "lines": {
+    "marie-mane": {
+     "player_id": "marie-mane",
+     "team": "Hozono Global Jairis",
+     "side": "away",
+     "jersey": "1",
+     "status": "dnp",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=2S1CQbVj_7I",
+    "title": "ZKK Brod Na Savi v Hozono Global Jairis | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 6395,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135350",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "J",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T19:00:00Z",
+   "venue": "Pazo Provincial Dos Deportes De Lugo, Lugo",
+   "home": {
+    "name": "Ensino Lugo CB",
+    "short": "Duran Maquinaria Ensino",
+    "code": "DME",
+    "score": 86
+   },
+   "away": {
+    "name": "Basket Lattes Montpellier Association",
+    "short": "BLMA",
+    "code": "BLMA",
+    "score": 80
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135350-DME-BLMA",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135350-DME-BLMA#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135350-DME-BLMA#playByPlay"
+   },
+   "lines": {
+    "lina-sardi-lakedja": {
+     "player_id": "lina-sardi-lakedja",
+     "team": "BLMA",
+     "side": "away",
+     "jersey": "5",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 1,
+      "fgm": 0,
+      "fga": 1,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 1,
+      "fta": 2,
+      "oreb": 1,
+      "dreb": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "to": 1,
+      "pf": 2,
+      "min": 10.3,
+      "sec": 617
+     },
+     "source": "fiba"
+    },
+    "mathilde-domenger": {
+     "player_id": "mathilde-domenger",
+     "team": "BLMA",
+     "side": "away",
+     "jersey": "8",
+     "status": "dnp",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "sara-chevaugeon": {
+     "player_id": "sara-chevaugeon",
+     "team": "BLMA",
+     "side": "away",
+     "jersey": "10",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 13,
+      "fgm": 4,
+      "fga": 15,
+      "tpm": 3,
+      "tpa": 13,
+      "ftm": 2,
+      "fta": 2,
+      "oreb": 3,
+      "dreb": 1,
+      "reb": 4,
+      "ast": 3,
+      "stl": 3,
+      "blk": 0,
+      "to": 1,
+      "pf": 1,
+      "min": 35.8,
+      "sec": 2145
+     },
+     "source": "fiba"
+    },
+    "sarah-cisse": {
+     "player_id": "sarah-cisse",
+     "team": "BLMA",
+     "side": "away",
+     "jersey": "19",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 17,
+      "fgm": 8,
+      "fga": 12,
+      "tpm": 1,
+      "tpa": 2,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 1,
+      "dreb": 4,
+      "reb": 5,
+      "ast": 2,
+      "stl": 1,
+      "blk": 1,
+      "to": 2,
+      "pf": 3,
+      "min": 24.1,
+      "sec": 1444
+     },
+     "source": "fiba"
+    },
+    "axelle-raggiri": {
+     "player_id": "axelle-raggiri",
+     "team": "BLMA",
+     "side": "away",
+     "jersey": "20",
+     "status": "dnp",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "garance-rabot": {
+     "player_id": "garance-rabot",
+     "team": "BLMA",
+     "side": "away",
+     "jersey": "26",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 4,
+      "fgm": 1,
+      "fga": 7,
+      "tpm": 0,
+      "tpa": 3,
+      "ftm": 2,
+      "fta": 2,
+      "oreb": 0,
+      "dreb": 3,
+      "reb": 3,
+      "ast": 6,
+      "stl": 1,
+      "blk": 1,
+      "to": 4,
+      "pf": 5,
+      "min": 21.9,
+      "sec": 1311
+     },
+     "source": "fiba"
+    },
+    "oumou-diarisso": {
+     "player_id": "oumou-diarisso",
+     "team": "BLMA",
+     "side": "away",
+     "jersey": "76",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 5,
+      "fgm": 1,
+      "fga": 8,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 3,
+      "fta": 4,
+      "oreb": 0,
+      "dreb": 2,
+      "reb": 2,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "to": 3,
+      "pf": 1,
+      "min": 30.1,
+      "sec": 1803
+     },
+     "source": "fiba"
+    },
+    "romane-bernies": {
+     "player_id": "romane-bernies",
+     "team": "BLMA",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "maelys-dupont": {
+     "player_id": "maelys-dupont",
+     "team": "BLMA",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "maryama-m-baye": {
+     "player_id": "maryama-m-baye",
+     "team": "BLMA",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=1ZIEV4S4GVM",
+    "title": "Regular Season | Duran Maquinaria Ensino v BLMA | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7345,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135264",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "B",
+   "date": "2026-11-04",
+   "tipoff_utc": "2026-11-04T19:45:00Z",
+   "venue": "CEZ Sportovni Hala Nymburk, Nymburk",
+   "home": {
+    "name": "Maccabi Bnot Ashdod",
+    "short": "Maccabi Bnot Ashdod",
+    "code": "ASHD",
+    "score": 60
+   },
+   "away": {
+    "name": "BEŞİKTAŞ JİMNASTİK KULÜBÜ",
+    "short": "Besiktas BOA",
+    "code": "BJK",
+    "score": 70
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135264-ASHD-BJK",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135264-ASHD-BJK#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135264-ASHD-BJK#playByPlay"
+   },
+   "lines": {
+    "marieme-badiane": {
+     "player_id": "marieme-badiane",
+     "team": "Besiktas BOA",
+     "side": "away",
+     "jersey": "25",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 10,
+      "fgm": 4,
+      "fga": 8,
+      "tpm": 2,
+      "tpa": 4,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 1,
+      "dreb": 4,
+      "reb": 5,
+      "ast": 2,
+      "stl": 0,
+      "blk": 1,
+      "to": 3,
+      "pf": 1,
+      "min": 24.8,
+      "sec": 1488
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-04",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=-Ycdu_VlDcs",
+    "title": "Maccabi Bnot Ashdod v Besiktas BOA | Full Basketball Game | EuroCup Women 2026-27 | Regular Season",
+    "channel": "@FIBA",
+    "duration_s": 6931,
     "kind": "full"
    }
   }
