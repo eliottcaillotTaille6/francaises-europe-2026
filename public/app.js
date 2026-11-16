@@ -71,13 +71,24 @@ function clipLink(g, l) {
   return { label: clip.label ?? 'Clipper', url: `${clip.url}?${q}`, title: 'Match complet : ouvrir dans l\'outil de clipping (vidéo, play-by-play, joueuse et zones préremplis, analyse lancée)' };
 }
 
+// Double-double avec les passes (10 ou plus) : second bouton « Clipper passes », même lien avec
+// mode=passes (l'outil monte alors les paniers des coéquipières sur les passes de la joueuse).
+function clipLinks(g, l) {
+  const c = clipLink(g, l);
+  if (!c) return [];
+  if ((l.stats?.ast ?? 0) < 10) return [c];
+  const u = new URL(c.url);
+  u.searchParams.set('mode', 'passes');
+  return [c, { label: c.label.replace(/^(\S+)/, '$1 passes'), url: u.toString(), title: `${l.stats.ast} passes décisives : montage des paniers sur ses passes` }];
+}
+
 function gameLinks(g, line) {
-  const clip = clipLink(g, line);
+  const clips = clipLinks(g, line);
   return [
     { label: 'Play-by-play', url: g.links.pbp, title: 'Play-by-play officiel (fiba.basketball, onglet « Play by play »)' },
     { label: 'Box score', url: g.links.boxscore, title: 'Box score officiel (fiba.basketball, onglet « Boxscore »)' },
     ...youtubeLinks(g),
-    ...(clip ? [clip] : []),
+    ...clips,
   ];
 }
 const linkTag = (l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener"${l.title ? ` title="${esc(l.title)}"` : ''}>${esc(l.label)}</a>`;
@@ -393,7 +404,7 @@ function pageCalendar(day) {
         const { big, tags } = isBig(s, l.player_id);
         return `<li><a href="#/joueuse/${esc(l.player_id)}"><strong>${esc(state.byId.get(l.player_id)?.name ?? l.player_id)}</strong></a>
           <span class="muted">${esc(l.team)}</span>
-          ${s ? `<span${big ? ' style="color:var(--t6-green);font-weight:700"' : ''}>${s.pts} pts, ${s.reb} reb, ${s.ast} pd · ${Math.round(s.min)} min · ${s.fgm}-${s.fga} tirs</span>${tags.map((t) => `<span class="badge accent">${esc(t)}</span>`).join('')}` : `<span class="muted">${statusText(l)}</span>`}${(() => { const c = clipLink(g, l); return c ? ` ${linkTag(c)}` : ''; })()}</li>`;
+          ${s ? `<span${big ? ' style="color:var(--t6-green);font-weight:700"' : ''}>${s.pts} pts, ${s.reb} reb, ${s.ast} pd · ${Math.round(s.min)} min · ${s.fgm}-${s.fga} tirs</span>${tags.map((t) => `<span class="badge accent">${esc(t)}</span>`).join('')}` : `<span class="muted">${statusText(l)}</span>`}${clipLinks(g, l).map((c) => ` ${linkTag(c)}`).join('')}</li>`;
       }).join('')}</ul>
       ${linksHTML(g)}
     </section>`;
