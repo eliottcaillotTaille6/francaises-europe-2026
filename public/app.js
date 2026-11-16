@@ -209,6 +209,17 @@ function pageHome(weekStart) {
     ${others.length ? `<div class="absents"><h2>N'ont pas joué</h2><ul>${others.map(({ g, l }) => `<li><a href="#/joueuse/${esc(l.player_id)}">${esc(state.byId.get(l.player_id)?.name ?? l.player_id)}</a> (${esc(l.team)}, ${esc(dateShortFR(g.date))} ${perspective(g, l).where} ${esc(teamName(perspective(g, l).them))}) : ${statusText(l)}</li>`).join('')}</ul></div>` : ''}`;
 }
 
+// Retour de la fiche joueuse : vers la page d'où l'on vient (semaine, calendrier, tableau), sinon le tableau.
+let backTo = '#/tableau';
+function backLink() {
+  const [, page, arg] = backTo.replace(/^#\/?/, '#/').split('/');
+  const label = page === 'semaine' && arg ? `Semaine du ${dateFR(mondayOf(arg), { day: 'numeric', month: 'long' })}`
+    : page === 'calendrier' ? 'Calendrier'
+    : page === 'tableau' ? 'Tableau général'
+    : 'Cette semaine';
+  return `<a href="${esc(backTo || '#/')}">← ${esc(label)}</a>`;
+}
+
 function pagePlayer(id) {
   const p = state.byId.get(id);
   if (!p) return `<h1>Joueuse introuvable</h1><p><a href="#/tableau">Retour au tableau</a></p>`;
@@ -228,7 +239,7 @@ function pagePlayer(id) {
       ${av('3 pts', pct(a.tpm, a.tpa))}${av('LF', pct(a.ftm, a.fta))}${av('Interceptions', fmt1(a.stl))}
       ${av('Contres', fmt1(a.blk))}${av('Balles perdues', fmt1(a.to))}${av('Fautes', fmt1(a.pf))}
     </div>`;
-  return `<p><a href="#/tableau">← Tableau général</a></p>
+  return `<p>${backLink()}</p>
     <h1>${esc(p.name)}</h1>
     <dl class="bio">${bio.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl>
     ${Object.keys(p.fiba_pages ?? {}).length ? `<p class="links">${Object.entries(p.fiba_pages).map(([c, url]) => linkTag({ label: `Fiche ${compName(c)}`, url, title: `Sa page sur fiba.basketball (${compName(c)})` })).join('')}</p>` : ''}
@@ -434,9 +445,16 @@ function render() {
 }
 
 let lastHash = location.hash;
+const scrollOf = {};   // position de lecture de chaque page, retrouvée au retour d'une fiche joueuse
 window.addEventListener('hashchange', () => {
+  const page = (h) => h.replace(/^#\/?/, '#/').split('/')[1] || '';
+  const norm = (h) => (h && h !== '#' ? h : '#/');   // accueil : « », « # » ou « #/ »
+  const from = norm(lastHash), to = norm(location.hash);
+  scrollOf[from] = window.scrollY;
+  if (page(to) === 'joueuse' && page(from) !== 'joueuse') backTo = from;
   render();
-  if (location.hash.split('/')[1] !== lastHash.split('/')[1]) window.scrollTo(0, 0);
+  if (page(from) === 'joueuse' && to === backTo && scrollOf[to] != null) window.scrollTo(0, scrollOf[to]);
+  else if (to !== from) window.scrollTo(0, 0);
   lastHash = location.hash;
 });
 
