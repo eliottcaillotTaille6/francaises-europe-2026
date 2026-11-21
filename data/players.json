@@ -2312,7 +2312,7 @@
   "id": "aminata-gueye",
   "fiba_person_id": 269523,
   "name": "Aminata Gueye",
-  "dob": null,
+  "dob": "2002-07-10",
   "competitions": [
    "ELW"
   ],
@@ -2320,14 +2320,14 @@
    "ZVVZ USK Praha"
   ],
   "games_on_sheet": 0,
-  "position": null,
-  "height_cm": null,
+  "position": "Center",
+  "height_cm": 190,
   "number": "",
   "club": "ZVVZ USK Praha",
   "club_country": "CZE",
   "club_org": 65512,
   "active": true,
-  "note": "ajoutée à la main (arrivée de Zaragoza à l'été 2026, absente de la liste automatique)",
+  "note": "ajoutée à la main : dans l'effectif d'USK Praha mais pas encore inscrite sur la feuille d'un match d'EuroLeague (isOnFinalRoster: false)",
   "fiba_pages": {}
  }
 ]
