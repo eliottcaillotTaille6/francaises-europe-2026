@@ -2307,5 +2307,27 @@
   "fiba_pages": {
    "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/zvvz-usk-praha/254398-pauline-astier"
   }
+ },
+ {
+  "id": "aminata-gueye",
+  "fiba_person_id": 269523,
+  "name": "Aminata Gueye",
+  "dob": null,
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "ZVVZ USK Praha"
+  ],
+  "games_on_sheet": 0,
+  "position": null,
+  "height_cm": null,
+  "number": "",
+  "club": "ZVVZ USK Praha",
+  "club_country": "CZE",
+  "club_org": 65512,
+  "active": true,
+  "note": "ajoutée à la main (arrivée de Zaragoza à l'été 2026, absente de la liste automatique)",
+  "fiba_pages": {}
  }
 ]
