@@ -2329,5 +2329,27 @@
   "active": true,
   "note": "ajoutée à la main : dans l'effectif d'USK Praha mais pas encore inscrite sur la feuille d'un match d'EuroLeague (isOnFinalRoster: false)",
   "fiba_pages": {}
+ },
+ {
+  "id": "janelle-salaun",
+  "fiba_person_id": 237521,
+  "name": "Janelle Salaün",
+  "dob": null,
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Galatasaray Cagdas Faktoring"
+  ],
+  "games_on_sheet": 0,
+  "position": null,
+  "height_cm": null,
+  "number": "",
+  "club": "Galatasaray Cagdas Faktoring",
+  "club_country": "TUR",
+  "club_org": null,
+  "active": true,
+  "note": "ajoutée à la main : nationalité absente chez FIBA, pas encore inscrite sur une feuille d'EuroLeague au 23/11/2026",
+  "fiba_pages": {}
  }
 ]
