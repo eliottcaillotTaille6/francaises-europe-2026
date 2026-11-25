@@ -2350,6 +2350,77 @@
   "club_org": null,
   "active": true,
   "note": "ajoutée à la main : nationalité absente chez FIBA, pas encore inscrite sur une feuille d'EuroLeague au 23/11/2026",
-  "fiba_pages": {}
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/galatasaray-cagdas-faktoring/237521-janelle-salaun"
+  }
+ },
+ {
+  "id": "leana-dosso",
+  "fiba_person_id": 424695,
+  "name": "Leana Dosso",
+  "dob": "2007-04-02",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Basket Landes"
+  ],
+  "games_on_sheet": 0,
+  "position": "Shooting Guard",
+  "height_cm": 170,
+  "number": "",
+  "club": "Basket Landes",
+  "club_country": "FRA",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/basket-landes/424695-leana-dosso"
+  }
+ },
+ {
+  "id": "jayssie-de-pina",
+  "fiba_person_id": 392920,
+  "name": "Jayssie De Pina",
+  "dob": "2010-04-28",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 0,
+  "position": "Point Guard",
+  "height_cm": 173,
+  "number": "",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/392920-jayssie-de-pina"
+  }
+ },
+ {
+  "id": "binta-doucoure",
+  "fiba_person_id": 416995,
+  "name": "Binta Doucoure",
+  "dob": "2010-11-10",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Tango Bourges Basket"
+  ],
+  "games_on_sheet": 0,
+  "position": "Center",
+  "height_cm": 190,
+  "number": "",
+  "club": "Tango Bourges Basket",
+  "club_country": "FRA",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/416995-binta-doucoure"
+  }
  }
 ]

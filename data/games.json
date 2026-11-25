@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:09:12.253Z",
+ "updated": "2026-11-25T19:41:52.966Z",
  "season": "2026-27",
  "games": [
   {
@@ -13638,6 +13638,997 @@
     "title": "Maccabi Bnot Ashdod v Besiktas BOA | Full Basketball Game | EuroCup Women 2026-27 | Regular Season",
     "channel": "@FIBA",
     "duration_s": 6931,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ELW-135183",
+   "final": true,
+   "competition": "ELW",
+   "round": "Regular Season - First Round",
+   "group": "D",
+   "date": "2026-11-25",
+   "tipoff_utc": "2026-11-25T16:00:00Z",
+   "venue": "Basaksehir Genclik ve Spor Tesisleri, Istanbul",
+   "home": {
+    "name": "Emlak Konut Spor Kulübü",
+    "short": "Emlak Konut",
+    "code": "EKSK",
+    "score": 98
+   },
+   "away": {
+    "name": "Tango Bourges Basket",
+    "short": "Tango Bourges Basket",
+    "code": "TBB",
+    "score": 62
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135183-EKSK-TBB",
+    "boxscore": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135183-EKSK-TBB#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135183-EKSK-TBB#playByPlay"
+   },
+   "lines": {
+    "maewenn-poilve": {
+     "player_id": "maewenn-poilve",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "1",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 3,
+      "fgm": 1,
+      "fga": 2,
+      "tpm": 1,
+      "tpa": 1,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 1,
+      "dreb": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "to": 0,
+      "pf": 0,
+      "min": 8.3,
+      "sec": 499
+     },
+     "source": "fiba"
+    },
+    "marie-paule-foppossi": {
+     "player_id": "marie-paule-foppossi",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "2",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 11,
+      "fgm": 4,
+      "fga": 8,
+      "tpm": 0,
+      "tpa": 3,
+      "ftm": 3,
+      "fta": 7,
+      "oreb": 0,
+      "dreb": 6,
+      "reb": 6,
+      "ast": 3,
+      "stl": 0,
+      "blk": 1,
+      "to": 1,
+      "pf": 1,
+      "min": 26.4,
+      "sec": 1585
+     },
+     "source": "fiba"
+    },
+    "maeva-djaldi-tabdi": {
+     "player_id": "maeva-djaldi-tabdi",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "3",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 9,
+      "fgm": 3,
+      "fga": 8,
+      "tpm": 1,
+      "tpa": 2,
+      "ftm": 2,
+      "fta": 2,
+      "oreb": 0,
+      "dreb": 1,
+      "reb": 1,
+      "ast": 0,
+      "stl": 2,
+      "blk": 0,
+      "to": 2,
+      "pf": 2,
+      "min": 25.6,
+      "sec": 1537
+     },
+     "source": "fiba"
+    },
+    "elodie-naigre": {
+     "player_id": "elodie-naigre",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "25",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 6,
+      "fgm": 2,
+      "fga": 6,
+      "tpm": 2,
+      "tpa": 6,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 2,
+      "reb": 2,
+      "ast": 4,
+      "stl": 1,
+      "blk": 0,
+      "to": 1,
+      "pf": 5,
+      "min": 21.5,
+      "sec": 1291
+     },
+     "source": "fiba"
+    },
+    "ines-pitarch-granel": {
+     "player_id": "ines-pitarch-granel",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "26",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 2,
+      "fgm": 1,
+      "fga": 7,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 3,
+      "reb": 3,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "to": 1,
+      "pf": 3,
+      "min": 17.2,
+      "sec": 1032
+     },
+     "source": "fiba"
+    },
+    "clarince-djaldi-tabdi": {
+     "player_id": "clarince-djaldi-tabdi",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "36",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 2,
+      "fgm": 1,
+      "fga": 4,
+      "tpm": 0,
+      "tpa": 2,
+      "ftm": 0,
+      "fta": 2,
+      "oreb": 2,
+      "dreb": 1,
+      "reb": 3,
+      "ast": 1,
+      "stl": 1,
+      "blk": 1,
+      "to": 0,
+      "pf": 3,
+      "min": 24.9,
+      "sec": 1493
+     },
+     "source": "fiba"
+    },
+    "alix-duchet": {
+     "player_id": "alix-duchet",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "39",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 2,
+      "fgm": 0,
+      "fga": 7,
+      "tpm": 0,
+      "tpa": 3,
+      "ftm": 2,
+      "fta": 2,
+      "oreb": 2,
+      "dreb": 2,
+      "reb": 4,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "to": 0,
+      "pf": 1,
+      "min": 30,
+      "sec": 1801
+     },
+     "source": "fiba"
+    },
+    "rokia-bamba": {
+     "player_id": "rokia-bamba",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "jayssie-de-pina": {
+     "player_id": "jayssie-de-pina",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "binta-doucoure": {
+     "player_id": "binta-doucoure",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "anna-mane": {
+     "player_id": "anna-mane",
+     "team": "Tango Bourges Basket",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-25",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=jTVngUPR_30",
+    "title": "Emlak Konut v Tango Bourges Basket | Full Basketball Game | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 7456,
+    "kind": "full"
+   },
+   "highlights": {
+    "url": "https://www.youtube.com/watch?v=hRZVs29GebI",
+    "title": "Emlak Konut v Tango Bourges Basket | Full Game Highlights | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 657
+   }
+  },
+  {
+   "id": "ECW-135365",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "K",
+   "date": "2026-11-25",
+   "tipoff_utc": "2026-11-25T16:15:00Z",
+   "venue": "City Campus, Ostrava",
+   "home": {
+    "name": "SBS Ostrava",
+    "short": "SBS Ostrava",
+    "code": "OVA",
+    "score": 62
+   },
+   "away": {
+    "name": "Rutronik Stars Keltern",
+    "short": "Rutronik Stars Keltern",
+    "code": "RSK",
+    "score": 72
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135365-OVA-RSK",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135365-OVA-RSK#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135365-OVA-RSK#playByPlay"
+   },
+   "lines": {
+    "marina-ewodo": {
+     "player_id": "marina-ewodo",
+     "team": "SBS Ostrava",
+     "side": "home",
+     "jersey": "14",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 11,
+      "fgm": 3,
+      "fga": 10,
+      "tpm": 1,
+      "tpa": 3,
+      "ftm": 4,
+      "fta": 6,
+      "oreb": 5,
+      "dreb": 5,
+      "reb": 10,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "to": 1,
+      "pf": 3,
+      "min": 35.4,
+      "sec": 2126
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-25",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=wSmvd6jy8FA",
+    "title": "Regular Season | SBS Ostrava v Rutronik Stars Keltern | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7376,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135294",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "D",
+   "date": "2026-11-25",
+   "tipoff_utc": "2026-11-25T16:30:00Z",
+   "venue": "Eleftheria Moschatou Basketball Arena, Moschato",
+   "home": {
+    "name": "Olympiacos S.F.P.",
+    "short": "Olympiacos SFP",
+    "code": "OSFP",
+    "score": 100
+   },
+   "away": {
+    "name": "1KS Ślęza Wrocław",
+    "short": "Sleza Wroclaw",
+    "code": "1KS",
+    "score": 67
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135294-OSFP-1KS",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135294-OSFP-1KS#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135294-OSFP-1KS#playByPlay"
+   },
+   "lines": {
+    "yohana-ewodo": {
+     "player_id": "yohana-ewodo",
+     "team": "Olympiacos SFP",
+     "side": "home",
+     "jersey": "8",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 11,
+      "fgm": 4,
+      "fga": 9,
+      "tpm": 0,
+      "tpa": 2,
+      "ftm": 3,
+      "fta": 3,
+      "oreb": 0,
+      "dreb": 2,
+      "reb": 2,
+      "ast": 2,
+      "stl": 1,
+      "blk": 1,
+      "to": 0,
+      "pf": 0,
+      "min": 25.5,
+      "sec": 1530
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-25"
+  },
+  {
+   "id": "ELW-135159",
+   "final": true,
+   "competition": "ELW",
+   "round": "Regular Season - First Round",
+   "group": "A",
+   "date": "2026-11-25",
+   "tipoff_utc": "2026-11-25T17:00:00Z",
+   "venue": "Active Vilnius Arena, Vilnius",
+   "home": {
+    "name": "Kibirkstis-TOKS Vilnius",
+    "short": "Kibirkstis-TOKS",
+    "code": "KIB",
+    "score": 85
+   },
+   "away": {
+    "name": "Basket Landes",
+    "short": "Basket Landes",
+    "code": "BLA",
+    "score": 68
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135159-KIB-BLA",
+    "boxscore": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135159-KIB-BLA#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135159-KIB-BLA#playByPlay"
+   },
+   "lines": {
+    "zoe-wadoux": {
+     "player_id": "zoe-wadoux",
+     "team": "Kibirkstis-TOKS",
+     "side": "home",
+     "jersey": "3",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 26,
+      "fgm": 9,
+      "fga": 14,
+      "tpm": 8,
+      "tpa": 13,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 4,
+      "reb": 4,
+      "ast": 7,
+      "stl": 3,
+      "blk": 0,
+      "to": 1,
+      "pf": 2,
+      "min": 30.6,
+      "sec": 1835
+     },
+     "source": "fiba"
+    },
+    "marie-pardon": {
+     "player_id": "marie-pardon",
+     "team": "Basket Landes",
+     "side": "away",
+     "jersey": "5",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 2,
+      "fgm": 1,
+      "fga": 4,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 0,
+      "dreb": 1,
+      "reb": 1,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "to": 2,
+      "pf": 1,
+      "min": 20.4,
+      "sec": 1226
+     },
+     "source": "fiba"
+    },
+    "sophia-elenga": {
+     "player_id": "sophia-elenga",
+     "team": "Basket Landes",
+     "side": "away",
+     "jersey": "6",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 0,
+      "fgm": 0,
+      "fga": 4,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 1,
+      "dreb": 0,
+      "reb": 1,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "to": 0,
+      "pf": 2,
+      "min": 15.8,
+      "sec": 948
+     },
+     "source": "fiba"
+    },
+    "camille-droguet": {
+     "player_id": "camille-droguet",
+     "team": "Basket Landes",
+     "side": "away",
+     "jersey": "7",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 4,
+      "fgm": 2,
+      "fga": 6,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 2,
+      "dreb": 2,
+      "reb": 4,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "to": 2,
+      "pf": 0,
+      "min": 21.8,
+      "sec": 1308
+     },
+     "source": "fiba"
+    },
+    "mariama-daramy": {
+     "player_id": "mariama-daramy",
+     "team": "Basket Landes",
+     "side": "away",
+     "jersey": "9",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 9,
+      "fgm": 4,
+      "fga": 9,
+      "tpm": 1,
+      "tpa": 3,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 2,
+      "dreb": 3,
+      "reb": 5,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "to": 0,
+      "pf": 1,
+      "min": 22.2,
+      "sec": 1333
+     },
+     "source": "fiba"
+    },
+    "emma-peytour": {
+     "player_id": "emma-peytour",
+     "team": "Basket Landes",
+     "side": "away",
+     "jersey": "10",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 9,
+      "fgm": 3,
+      "fga": 5,
+      "tpm": 3,
+      "tpa": 4,
+      "ftm": 0,
+      "fta": 2,
+      "oreb": 1,
+      "dreb": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "to": 1,
+      "pf": 1,
+      "min": 15.3,
+      "sec": 919
+     },
+     "source": "fiba"
+    },
+    "sixtine-macquet": {
+     "player_id": "sixtine-macquet",
+     "team": "Basket Landes",
+     "side": "away",
+     "jersey": "13",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 7,
+      "fgm": 3,
+      "fga": 7,
+      "tpm": 1,
+      "tpa": 3,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 2,
+      "dreb": 4,
+      "reb": 6,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "to": 0,
+      "pf": 4,
+      "min": 18.8,
+      "sec": 1130
+     },
+     "source": "fiba"
+    },
+    "emma-dechanoz": {
+     "player_id": "emma-dechanoz",
+     "team": "Basket Landes",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "aminata-diagne": {
+     "player_id": "aminata-diagne",
+     "team": "Basket Landes",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "leana-dosso": {
+     "player_id": "leana-dosso",
+     "team": "Basket Landes",
+     "side": "away",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-25",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=FYQSq27wpWU",
+    "title": "Regular Season | Kibirkstis-TOKS v Basket Landes | Full Basketball Game | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 7292,
+    "kind": "full"
+   },
+   "highlights": {
+    "url": "https://www.youtube.com/watch?v=qaNRym7Yb-E",
+    "title": "Kibirkstis-TOKS v Basket Landes | Full Game Highlights | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 620
+   }
+  },
+  {
+   "id": "ELW-135170",
+   "final": true,
+   "competition": "ELW",
+   "round": "Regular Season - First Round",
+   "group": "B",
+   "date": "2026-11-25",
+   "tipoff_utc": "2026-11-25T17:00:00Z",
+   "venue": "Sinan Erdem Dome, Istanbul",
+   "home": {
+    "name": "Galatasaray Spor Kulübü",
+    "short": "Galatasaray Cagdas Faktoring",
+    "code": "GALA",
+    "score": 80
+   },
+   "away": {
+    "name": "Kangoeroes Basket Mechelen",
+    "short": "Kangoeroes Basket Mechelen",
+    "code": "MEC",
+    "score": 59
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135170-GALA-MEC",
+    "boxscore": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135170-GALA-MEC#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135170-GALA-MEC#playByPlay"
+   },
+   "lines": {
+    "marine-fauthoux": {
+     "player_id": "marine-fauthoux",
+     "team": "Galatasaray Cagdas Faktoring",
+     "side": "home",
+     "jersey": "4",
+     "status": "played",
+     "starter": false,
+     "stats": {
+      "pts": 4,
+      "fgm": 1,
+      "fga": 5,
+      "tpm": 0,
+      "tpa": 3,
+      "ftm": 2,
+      "fta": 2,
+      "oreb": 0,
+      "dreb": 4,
+      "reb": 4,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "to": 1,
+      "pf": 0,
+      "min": 19.4,
+      "sec": 1162
+     },
+     "source": "fiba"
+    },
+    "janelle-salaun": {
+     "player_id": "janelle-salaun",
+     "team": "Galatasaray Cagdas Faktoring",
+     "side": "home",
+     "jersey": "13",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 8,
+      "fgm": 3,
+      "fga": 7,
+      "tpm": 1,
+      "tpa": 2,
+      "ftm": 1,
+      "fta": 3,
+      "oreb": 2,
+      "dreb": 4,
+      "reb": 6,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "to": 2,
+      "pf": 2,
+      "min": 20,
+      "sec": 1199
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-25",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=WbIJl5l_1YQ",
+    "title": "Galatasaray Cagdas Faktoring v Kangoeroes Basket Mechelen | Full Game | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 6716,
+    "kind": "full"
+   },
+   "highlights": {
+    "url": "https://www.youtube.com/watch?v=2K0ei5FxxKc",
+    "title": "Galatasaray Cagdas Faktoring v Kangoeroes Basket Mechelen | Highlights | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 657
+   }
+  },
+  {
+   "id": "ELW-135194",
+   "final": true,
+   "competition": "ELW",
+   "round": "Regular Season - First Round",
+   "group": "C",
+   "date": "2026-11-25",
+   "tipoff_utc": "2026-11-25T17:00:00Z",
+   "venue": "Ülker Sports and Event Hall, Istanbul",
+   "home": {
+    "name": "Fenerbahçe Spor Kulübü",
+    "short": "Fenerbahce Tarfin",
+    "code": "FENER",
+    "score": 107
+   },
+   "away": {
+    "name": "CS Rapid Bucuresti",
+    "short": "CS Rapid Bucuresti",
+    "code": "RAPID",
+    "score": 62
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135194-FENER-RAPID",
+    "boxscore": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135194-FENER-RAPID#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135194-FENER-RAPID#playByPlay"
+   },
+   "lines": {
+    "nell-angloma": {
+     "player_id": "nell-angloma",
+     "team": "Fenerbahce Tarfin",
+     "side": "home",
+     "jersey": "33",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 21,
+      "fgm": 10,
+      "fga": 12,
+      "tpm": 1,
+      "tpa": 2,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 2,
+      "dreb": 7,
+      "reb": 9,
+      "ast": 1,
+      "stl": 3,
+      "blk": 1,
+      "to": 3,
+      "pf": 1,
+      "min": 22.6,
+      "sec": 1354
+     },
+     "source": "fiba"
+    },
+    "leila-lacan": {
+     "player_id": "leila-lacan",
+     "team": "Fenerbahce Tarfin",
+     "side": "home",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    },
+    "tima-pouye": {
+     "player_id": "tima-pouye",
+     "team": "Fenerbahce Tarfin",
+     "side": "home",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-25",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=I9dic0LUDr4",
+    "title": "Fenerbahce Tarfin v CS Rapid Bucuresti | Full Basketball Game | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 7075,
+    "kind": "full"
+   },
+   "highlights": {
+    "url": "https://www.youtube.com/watch?v=_hFtsP8HU6E",
+    "title": "Fenerbahce Tarfin v CS Rapid Bucuresti | Full Game Highlights | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 656
+   }
+  },
+  {
+   "id": "ECW-135268",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "B",
+   "date": "2026-11-25",
+   "tipoff_utc": "2026-11-25T17:00:00Z",
+   "venue": "Besiktas Gain Sport Complex, Istanbul",
+   "home": {
+    "name": "BEŞİKTAŞ JİMNASTİK KULÜBÜ",
+    "short": "Besiktas BOA",
+    "code": "BJK",
+    "score": 105
+   },
+   "away": {
+    "name": "DSK Basketball",
+    "short": "DSK Basketball Brandys",
+    "code": "DSK",
+    "score": 57
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135268-BJK-DSK",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135268-BJK-DSK#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135268-BJK-DSK#playByPlay"
+   },
+   "lines": {
+    "marieme-badiane": {
+     "player_id": "marieme-badiane",
+     "team": "Besiktas BOA",
+     "side": "home",
+     "jersey": "25",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 19,
+      "fgm": 7,
+      "fga": 12,
+      "tpm": 0,
+      "tpa": 1,
+      "ftm": 5,
+      "fta": 6,
+      "oreb": 3,
+      "dreb": 7,
+      "reb": 10,
+      "ast": 2,
+      "stl": 2,
+      "blk": 2,
+      "to": 2,
+      "pf": 1,
+      "min": 26.3,
+      "sec": 1575
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-25",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=CDOD3BCcUEQ",
+    "title": "Regular Season | Besiktas BOA v DSK Basketball Brandys | Full Basketball Game |EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 6810,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135300",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "E",
+   "date": "2026-11-25",
+   "tipoff_utc": "2026-11-25T17:00:00Z",
+   "venue": "DVTK Arena, Miskolc",
+   "home": {
+    "name": "DVTK HUNTHERM",
+    "short": "DVTK HUNTHERM",
+    "code": "DVTK",
+    "score": 79
+   },
+   "away": {
+    "name": "ZKK Brod Na Savi",
+    "short": "ZKK Brod Na Savi",
+    "code": "BNS",
+    "score": 69
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135300-DVTK-BNS",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135300-DVTK-BNS#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135300-DVTK-BNS#playByPlay"
+   },
+   "lines": {
+    "diana-balayera": {
+     "player_id": "diana-balayera",
+     "team": "DVTK HUNTHERM",
+     "side": "home",
+     "jersey": "77",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 2,
+      "fgm": 1,
+      "fga": 6,
+      "tpm": 0,
+      "tpa": 3,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 3,
+      "dreb": 3,
+      "reb": 6,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "to": 3,
+      "pf": 1,
+      "min": 13.8,
+      "sec": 826
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-25",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=VKv1M-b8M7M",
+    "title": "Regular Season | DVTK HUNTHERM v ZKK Brod Na Savi | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7090,
     "kind": "full"
    }
   }
