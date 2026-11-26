@@ -36,8 +36,10 @@ export function valueAfter(text, key, from = 0) {
   return objectAt(text, i + needle.length);
 }
 
-/** Tous les matchs d'une compétition (page /games). */
-export async function competitionGames(slug, { ttl = 3 * 3600 } = {}) {
+/** Tous les matchs d'une compétition (page /games). Cache de 10 min seulement : le cache disque est gardé d'une
+ * mise à jour à l'autre (GitHub Actions), et un calendrier vieux de 3 h faisait manquer les matchs du soir
+ * (BLMA–Panserraikos du 26/11, joué à 20 h, absent de la mise à jour de 22 h 22 qui relisait la liste de 19 h 30). */
+export async function competitionGames(slug, { ttl = 600 } = {}) {
   const t = flight(await fetchText(`${BASE}/${slug}/games`, { ttl }));
   const games = new Map();
   for (const m of t.matchAll(/\{"gameId":\d+,"gameName"/g)) {
@@ -57,7 +59,7 @@ export async function gamePage(slug, g, { ttl } = {}) {
   const url = gameUrl(slug, g);
   // match terminé et validé : la page ne change plus
   const final = g.gameResultStatusCode === 'VALID' && g.gamePlayByPlayStatusCode === 'VALID';
-  const t = flight(await fetchText(url, { ttl: ttl ?? (final ? 30 * 86400 : 3 * 3600) }));
+  const t = flight(await fetchText(url, { ttl: ttl ?? (final ? 30 * 86400 : 600) }));
   const at = t.indexOf('"rosterA":');
   const rosterA = at >= 0 ? valueAfter(t, 'rosterA', at) : null;
   const rosterB = at >= 0 ? valueAfter(t, 'rosterB', at) : null;
