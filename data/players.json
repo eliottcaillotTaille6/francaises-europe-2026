@@ -2328,7 +2328,9 @@
   "club_org": 65512,
   "active": true,
   "note": "ajoutée à la main : dans l'effectif d'USK Praha mais pas encore inscrite sur la feuille d'un match d'EuroLeague (isOnFinalRoster: false)",
-  "fiba_pages": {}
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/zvvz-usk-praha/269523-aminata-gueye"
+  }
  },
  {
   "id": "janelle-salaun",
@@ -2421,6 +2423,213 @@
   "note": "ajoutée automatiquement",
   "fiba_pages": {
    "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/tango-bourges-basket/416995-binta-doucoure"
+  }
+ },
+ {
+  "id": "kendra-chery",
+  "fiba_person_id": 226144,
+  "name": "Kendra Chery",
+  "dob": "2001-07-16",
+  "competitions": [
+   "ELW"
+  ],
+  "clubs": [
+   "Valencia Basket Club"
+  ],
+  "games_on_sheet": 0,
+  "position": "Small Forward",
+  "height_cm": 185,
+  "number": "7",
+  "club": "Valencia Basket Club",
+  "club_country": "ESP",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ELW": "https://www.fiba.basketball/en/events/euroleague-women-26-27/teams/valencia-basket-club/226144-kendra-chery"
+  }
+ },
+ {
+  "id": "nina-guilbaud",
+  "fiba_person_id": 427794,
+  "name": "Nina Guilbaud",
+  "dob": "2007-02-24",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 0,
+  "position": "",
+  "height_cm": null,
+  "number": "12",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/427794-nina-guilbaud"
+  }
+ },
+ {
+  "id": "liya-tetka",
+  "fiba_person_id": 392929,
+  "name": "Liya Tetka",
+  "dob": "2009-02-14",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 0,
+  "position": "Forward",
+  "height_cm": 177,
+  "number": "23",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/392929-liya-tetka"
+  }
+ },
+ {
+  "id": "abigail-dia",
+  "fiba_person_id": 419023,
+  "name": "Abigail Dia",
+  "dob": "2009-02-10",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 0,
+  "position": "Small Forward",
+  "height_cm": 176,
+  "number": "34",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/419023-abigail-dia"
+  }
+ },
+ {
+  "id": "maty-seck",
+  "fiba_person_id": 427792,
+  "name": "Maty Seck",
+  "dob": "2009-12-11",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Charnay Basket"
+  ],
+  "games_on_sheet": 0,
+  "position": "",
+  "height_cm": null,
+  "number": "",
+  "club": "Charnay Basket",
+  "club_country": "FRA",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/charnay-basket/427792-maty-seck"
+  }
+ },
+ {
+  "id": "lise-fangnigbe",
+  "fiba_person_id": 391175,
+  "name": "Lise Fangnigbe",
+  "dob": "2007-05-27",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Villeneuve d'Ascq LM"
+  ],
+  "games_on_sheet": 0,
+  "position": "Point Guard",
+  "height_cm": 162,
+  "number": "",
+  "club": "Villeneuve d'Ascq LM",
+  "club_country": "FRA",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/villeneuve-dascq-lm/391175-lise-fangnigbe"
+  }
+ },
+ {
+  "id": "lou-lopez",
+  "fiba_person_id": 348983,
+  "name": "Lou Lopez",
+  "dob": "1998-05-12",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Hozono Global Jairis"
+  ],
+  "games_on_sheet": 0,
+  "position": "Shooting Guard",
+  "height_cm": 185,
+  "number": "",
+  "club": "Hozono Global Jairis",
+  "club_country": "ESP",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/hozono-global-jairis/348983-lou-lopez"
+  }
+ },
+ {
+  "id": "helene-jakovljevic",
+  "fiba_person_id": 226157,
+  "name": "Helene Jakovljevic",
+  "dob": "2000-10-05",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Landerneau Bretagne Basket"
+  ],
+  "games_on_sheet": 0,
+  "position": "Shooting Guard",
+  "height_cm": 176,
+  "number": "",
+  "club": "Landerneau Bretagne Basket",
+  "club_country": "FRA",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/landerneau-bretagne-basket/226157-helene-jakovljevic"
+  }
+ },
+ {
+  "id": "rebecca-tsobgny",
+  "fiba_person_id": 291042,
+  "name": "Rebecca Tsobgny",
+  "dob": "2003-06-12",
+  "competitions": [
+   "ECW"
+  ],
+  "clubs": [
+   "Landerneau Bretagne Basket"
+  ],
+  "games_on_sheet": 0,
+  "position": "",
+  "height_cm": null,
+  "number": "",
+  "club": "Landerneau Bretagne Basket",
+  "club_country": "FRA",
+  "active": true,
+  "note": "ajoutée automatiquement",
+  "fiba_pages": {
+   "ECW": "https://www.fiba.basketball/en/events/eurocup-women-26-27/teams/landerneau-bretagne-basket/291042-rebecca-tsobgny"
   }
  }
 ]
