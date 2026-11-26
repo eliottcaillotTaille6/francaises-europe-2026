@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:31:41.875Z",
+ "updated": "2026-11-26T19:30:49.246Z",
  "season": "2026-27",
  "games": [
   {
@@ -9650,6 +9650,59 @@
    }
   },
   {
+   "id": "ELW-135191",
+   "final": true,
+   "competition": "ELW",
+   "round": "Regular Season - First Round",
+   "group": "C",
+   "date": "2026-10-28",
+   "tipoff_utc": "2026-10-28T19:00:00Z",
+   "venue": "Roig Arena, Valencia",
+   "home": {
+    "name": "Valencia Basket Club",
+    "short": "Valencia Basket Club",
+    "code": "VBC",
+    "score": 105
+   },
+   "away": {
+    "name": "CS Rapid Bucuresti",
+    "short": "CS Rapid Bucuresti",
+    "code": "RAPID",
+    "score": 47
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135191-VBC-RAPID",
+    "boxscore": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135191-VBC-RAPID#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/euroleague-women-26-27/games/135191-VBC-RAPID#playByPlay"
+   },
+   "lines": {
+    "kendra-chery": {
+     "player_id": "kendra-chery",
+     "team": "Valencia Basket Club",
+     "side": "home",
+     "jersey": "",
+     "status": "absent",
+     "starter": false,
+     "stats": null,
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-26",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=AQGNN-w4jgA",
+    "title": "Valencia Basket Club v CS Rapid Bucuresti | Full Basketball Game | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 7045,
+    "kind": "full"
+   },
+   "highlights": {
+    "url": "https://www.youtube.com/watch?v=UM_3-0rItbQ",
+    "title": "Valencia Basket Club v CS Rapid Bucuresti | Full Game Highlights | EuroLeague Women 2026-27",
+    "channel": "@euroleaguewomen",
+    "duration_s": 661
+   }
+  },
+  {
    "id": "ELW-135166",
    "final": true,
    "competition": "ELW",
@@ -16107,7 +16160,14 @@
      "source": "fiba"
     }
    },
-   "videos_checked": "2026-11-26"
+   "videos_checked": "2026-11-26",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=dpqwsreBlrQ",
+    "title": "Regular Season | Spar Girona v BC Montana 2003 | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 7645,
+    "kind": "full"
+   }
   },
   {
    "id": "ECW-135380",
@@ -16415,6 +16475,99 @@
     "title": "MEINS Avenida v C'Chartres Metropole Basket Feminin | Full Basketball Game | EuroCup Women 2026-27",
     "channel": "@FIBA",
     "duration_s": 7547,
+    "kind": "full"
+   }
+  },
+  {
+   "id": "ECW-135295",
+   "final": true,
+   "competition": "ECW",
+   "round": "Regular Season",
+   "group": "D",
+   "date": "2026-11-26",
+   "tipoff_utc": "2026-11-26T17:00:00Z",
+   "venue": "Servet Tazegul Spor Salonu, Mersin",
+   "home": {
+    "name": "CIMSA CBK Mersin",
+    "short": "CIMSA CBK Mersin",
+    "code": "CBK",
+    "score": 93
+   },
+   "away": {
+    "name": "Club Universitario de Ferrol",
+    "short": "BAXI Ferrol",
+    "code": "BAXI",
+    "score": 57
+   },
+   "links": {
+    "game": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135295-CBK-BAXI",
+    "boxscore": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135295-CBK-BAXI#boxscore",
+    "pbp": "https://www.fiba.basketball/en/events/eurocup-women-26-27/games/135295-CBK-BAXI#playByPlay"
+   },
+   "lines": {
+    "carla-leite": {
+     "player_id": "carla-leite",
+     "team": "CIMSA CBK Mersin",
+     "side": "home",
+     "jersey": "0",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 21,
+      "fgm": 8,
+      "fga": 11,
+      "tpm": 3,
+      "tpa": 4,
+      "ftm": 2,
+      "fta": 2,
+      "oreb": 1,
+      "dreb": 2,
+      "reb": 3,
+      "ast": 3,
+      "stl": 1,
+      "blk": 1,
+      "to": 2,
+      "pf": 1,
+      "min": 32.8,
+      "sec": 1970
+     },
+     "source": "fiba"
+    },
+    "kariata-diaby": {
+     "player_id": "kariata-diaby",
+     "team": "CIMSA CBK Mersin",
+     "side": "home",
+     "jersey": "29",
+     "status": "played",
+     "starter": true,
+     "stats": {
+      "pts": 4,
+      "fgm": 2,
+      "fga": 6,
+      "tpm": 0,
+      "tpa": 0,
+      "ftm": 0,
+      "fta": 0,
+      "oreb": 2,
+      "dreb": 2,
+      "reb": 4,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "to": 0,
+      "pf": 2,
+      "min": 20.6,
+      "sec": 1236
+     },
+     "source": "fiba"
+    }
+   },
+   "videos_checked": "2026-11-26",
+   "youtube": {
+    "url": "https://www.youtube.com/watch?v=x4cDxpqFbkw",
+    "title": "Regular Season | CIMSA CBK Mersin v BAXI Ferrol | Full Basketball Game | EuroCup Women 2026-27",
+    "channel": "@FIBA",
+    "duration_s": 6898,
     "kind": "full"
    }
   }
